@@ -26,7 +26,7 @@ if (empty($_POST["terms"])) {
 }
 
 $EmailTo = "zahf.gaming.22@gmail.com";
-$Subject = "New message from Leno landing page";
+$Subject = "New message from DFS website";
 
 // prepare email body text
 $Body = "";
