@@ -1,0 +1,386 @@
+{
+  "blocks" : {
+    "curved_froststone" : {
+      "description" : "Description:  A block to hatch the Ice wyvern egg \n\nMaterials:   unknown",
+      "image" : "https://dragon-force-studio.com/images/EF_wiki/curved_froststone.png",
+      "image1" : "https://dragon-force-studio.com/images/EF_wiki/curved_froststone._recipe.png",
+      "name" : "Curved Froststone "
+    },
+    "dragon_nest" : {
+      "description" : "Description:  A block to hatch the Black Dragon egg \n\nMaterials:   unknown",
+      "image" : "https://dragon-force-studio.com/images/EF_wiki/dragon_nest.png",
+      "image1" : "https://dragon-force-studio.com/images/EF_wiki/dragon_nest._recipe.png",
+      "name" : "Dragon Nest Block"
+    },
+    "fire_dracolyte_ore" : {
+      "description" : "Description:  A special ore that can only see at scorched biome at y=0 upto y=12 level \n\nMaterials:   unknown",
+      "image" : "https://dragon-force-studio.com/images/EF_wiki/fire_dracolyte_ore.png",
+      "image1" : "https://dragon-force-studio.com/images/EF_wiki/fire_dracolyte_ore._recipe.png",
+      "name" : "Fire Dracolyte Ore"
+    },
+    "ice_dracolyte_ore" : {
+      "description" : "Description:  A special ore that can only see at Frostbitten biome at y=0 upto y=12 level \n\nMaterials:   unknown",
+      "image" : "https://dragon-force-studio.com/images/EF_wiki/ice_dracolyte_ore.png",
+      "image1" : "https://dragon-force-studio.com/images/EF_wiki/Ice_dracolyte_ore._recipe.png",
+      "name" : "Ice Dracolyte Ore"
+    },
+    "nested_rack" : {
+      "description" : "Description:  A block to hatch the Poison wyvern egg \n\nMaterials:   unknown",
+      "image" : "https://dragon-force-studio.com/images/EF_wiki/nested_rack.png",
+      "image1" : "https://dragon-force-studio.com/images/EF_wiki/nested_rack._recipe.png",
+      "name" : "Nested Rack"
+    },
+    "poison_dracolyte_ore" : {
+      "description" : "Description:  A special ore that can only see at Poison biome at y=0 upto y=12 level \n\nMaterials:   unknown",
+      "image" : "https://dragon-force-studio.com/images/EF_wiki/poison_dracolyte_ore.png",
+      "image1" : "https://dragon-force-studio.com/images/EF_wiki/poison_dracolyte_ore._recipe.png",
+      "name" : "Poison Dracolyte Ore"
+    },
+    "volcanic_block" : {
+      "description" : "Description:  A block to hatch the Fire wyvern egg \n\nMaterials:   unknown",
+      "image" : "https://dragon-force-studio.com/images/EF_wiki/volcanic_block.png",
+      "image1" : "https://dragon-force-studio.com/images/EF_wiki/volcanic_block._recipe.png",
+      "name" : "Volcanic Block "
+    }
+  },
+  "entities" : {
+    "angler_fish" : {
+      "description" : "Description:  A wicked blue creature, with a huge head and enormous crescent-shaped mouth. It's said that its luminescent organ called the esca at the top of its head is to attract prey.  Possibly eating it whole with its razor sharp and translucent teeth.\n\nHealth:  200\nDamage:  6 to 15\nSpeed:  0.35\nBehavior:  Aggressive\nTameable:  No\nSpawns: Ocean\nDrops:  Raw Angler Fish\n\nCreators:  NG_Web",
+      "image" : "https://dragon-force-studio.com/images/EF_wiki/angler_fish.png",
+      "name" : "Angler Fish"
+    },
+    "black_dragon" : {
+      "description" : "Description:  A beast, dark as the void.  Capable of annihilating entire villages with its breath.  And is only to be tamed from its origin, the egg.\n\nHealth:  500(no armor), 600(armor)\nDamage:  6 to 15(melee), 8+(Dragon Breath)\nSpeed:  0.30(Ground), 0.8(Air)\nBehavior:  Aggressive\nTameable:  No\nSpawns:  Mountain\nDrops:  Dragon Fang, Dragon Claw, Dragon Scale, Dragon Raw Meat, Dragon Bone, Black Dragon Egg, Wind Essence\n\nHealth Restoration:  Raw Porkchop(3 hp), Cooked Porkchop(8 hp), Fish(2 hp), Salmon(2 hp), Clownfish(1 hp), Pufferfish(1 hp), Cooked Fish(5 hp), Cooked Salmon(6 hp), Raw Beef(3 hp), Cooked Beef(8 hp), Raw Chicken(2 hp), Cooked Chicken(6 hp), Raw Mutton(2 hp), Cooked Mutton(6 hp), Rotten Flesh(4 hp), Raw Rabbit(3 hp), Cooked Rabbit(5 hp), Rabbit Stew(10 hp)\n\nCreators:  --------",
+      "image" : "https://dragon-force-studio.com/images/EF_wiki/black_dragon.png",
+      "name" : "Black Dragon"
+    },
+    "frog" : {
+      "description" : "COMING SOON\n\nCreators: LegendaryReaper",
+      "image" : "https://dragon-force-studio.com/images/EF_wiki/frog.png",
+      "name" : "Frog"
+    },
+    "griffin" : {
+      "description" : "Description:  A mythical creature portrayed as a lion with the wings and head of a bald eagle.  This beast is tamable, only by tranquilizing it and then feed it with 'Griffin Special Food'.\n\nHealth:  100\nDamage:  4 to 8\nSpeed:  0.35\nBehavior:  Neutral\nTameable:  Yes\nSpawns:  Mountain\nDrops:  Griffin Feather, Griffin Claw, Griffin Raw Meat\nTame Items:  Griffin Special Food\nHealth Restoration:  Griffin Special Food(15 hp), Beef(10 hp), Porkchop(5 hp)\n\nCreators:  NG_Web",
+      "image" : "https://dragon-force-studio.com/images/EF_wiki/griffin.png",
+      "name" : "Griffin"
+    },
+    "pegasus" : {
+      "description" : "Description:  A mythical winged horse that is depicted as pure white.  This magnificent creature is to be tamed with patience.  It is said that the only way to tame the Pegasus is by approaching it with a Golden Carrot, but be careful to not scare it off.\n\nHealth: 100 \nDamage:  8\nSpeed:  0.28\nBehavior:  Neutral\nTameable:  Yes\nSpawns:  Mountain\nDrops:  Pegasus Feather\nTame Items:  Golden Carrot\nHealth Restoration:  Wheat(3 hp), Carrot(8 hp), Apple(2 hp)\n\nCreators:  NG_Web",
+      "image" : "https://dragon-force-studio.com/images/EF_wiki/pegasus.png",
+      "name" : "Pegasus"
+    },
+    "sea_serpent" : {
+      "description" : "COMING SOON\n\nCreators: LegendaryReaper, JustinMN",
+      "image" : "https://dragon-force-studio.com/images/EF_wiki/sea_serpent.png",
+      "name" : "Sea Serpent"
+    },
+    "stag_deer" : {
+      "description" : "COMING SOON\n\nCreators: LegendaryReaper",
+      "image" : "https://dragon-force-studio.com/images/EF_wiki/stag_deer.png",
+      "name" : "Stag Deer"
+    }
+  },
+  "items" : {
+    "cooked_angler_fish" : {
+      "description" : "Description:  Cooked Angler Fish will Give you water breathing Effect when eaten \n\nRecipe:   Raw Angler Fish\nType: Food",
+      "image" : "https://dragon-force-studio.com/images/EF_wiki/cooked_angler_fish.png",
+      "image1" : "https://dragon-force-studio.com/images/EF_wiki/cooked_angler_fish._recipe.png",
+      "name" : "Cooked Angler Fish"
+    },
+    "cyrilite" : {
+      "description" : "Description:  A crafted dark blue sphere, smooth enough to consume, with a side effect of Speed(5) and Absorption(5) for 3 minutes.\n\nRecipe:  Instant Healing Potion, Ice Dracolyte Crystal\nManufacture:  Crafting Table\nType:  Food",
+      "image" : "https://dragon-force-studio.com/images/EF_wiki/cyrilite.png",
+      "image1" : "https://dragon-force-studio.com/images/EF_wiki/cyrilite._recipe.png",
+      "name" : "Cyrilite"
+    },
+    "dragon_saddle" : {
+      "description" : "Description:  The unviersal saddle for Dragons and Wyverns \n\nRecipe:  Dragon Scale,  String,  Iron Ingot,  Leather\nManufacture:  Crafting Table\nType: Saddle",
+      "image" : "https://dragon-force-studio.com/images/EF_wiki/dragon_saddle.png",
+      "image1" : "https://dragon-force-studio.com/images/EF_wiki/dragon_saddle._recipe.png",
+      "name" : "Dragon Saddle"
+    },
+    "fire_dracolyte" : {
+      "description" : "Description:Fire Dracolyte is obtained by breaking down a Fire Dracolyte Ore.  This material is also used to craft the Fire Ingot\n\nRecipe: Fire Dracolyte Ore\nManufacture:  Stonecutter\nType: Material",
+      "image" : "https://dragon-force-studio.com/images/EF_wiki/fire_dracolyte.png",
+      "image1" : "https://dragon-force-studio.com/images/EF_wiki/fire_dracolyte._recipe.png",
+      "name" : "Fire Dracolyte"
+    },
+    "fire_dracolyte_crystal" : {
+      "description" : "Description:  A red, bright and translucent crystal used to craft Igniside, a consumable that provides special effects\n\nRecipe:  Fire Dracolyte\nManufacture:  Blast Furnace\nType:  Material",
+      "image" : "https://dragon-force-studio.com/images/EF_wiki/fire_dracolyte_crystal.png",
+      "image1" : "https://dragon-force-studio.com/images/EF_wiki/fire_dracolyte_crystal._recipe.png",
+      "name" : "Fire Dracolyte Crystal"
+    },
+    "fire_essence" : {
+      "description" : "Description: An internal flame dropped by the fierce beast, the Fire Wyvern.  This flame is only used by the best blacksmith to craft powerful weapons and items.  But is also heard to be used to tame the mythical creature, Pheonix\n\nOrigin:  Fire Wyvern\nType:  Beast Food and Ingredient",
+      "image" : "https://dragon-force-studio.com/images/EF_wiki/fire_essence.png",
+      "name" : "Fire Essence"
+    },
+    "fire_ingot" : {
+      "description" : "Description:  Fire Ingot is obtained by forging both a Fire Dracolyte and Iron Ingot in the Dracolyte Forge.  This material is mainly used to craft the Fire Sword variants\n\nRecipe:  Fire Dracolyte,  Iron Ingot\nManufacture: Dracolyte Forge\nType: Material",
+      "image" : "https://dragon-force-studio.com/images/EF_wiki/fire_ingot.png",
+      "image1" : "https://dragon-force-studio.com/images/EF_wiki/fire_ingot._recipe.png",
+      "name" : "Fire Ingot"
+    },
+    "grappling_hook" : {
+      "description" : "Description:  A hook usually with several prongs that are used to grapple onto a surface\n\nRecipe:  Stick, Iron Ingots, Lead\nManufacture: Crafting Table\nType:  Item",
+      "image" : "https://dragon-force-studio.com/images/EF_wiki/grappling_hook.png",
+      "image1" : "https://dragon-force-studio.com/images/EF_wiki/grappling_hook._recipe.png",
+      "name" : "grappling_hook"
+    },
+    "griffin_claw" : {
+      "description" : "Description:   The raw material that is dropped from slaying the Griffin.\n\nOrigin:  Griffin\nType:  Ingredient",
+      "image" : "https://dragon-force-studio.com/images/EF_wiki/griffin_claw.png",
+      "name" : "Griffin Claw"
+    },
+    "griffin_cooked_meat" : {
+      "description" : "Description:   This is the edible meat of the Griffin.\n\nManufacture:  Furnace\nRecipe:  Griffin Raw Meat\nType:  Food",
+      "image" : "https://dragon-force-studio.com/images/EF_wiki/griffin_cooked_meat.png",
+      "image1" : "https://dragon-force-studio.com/images/EF_wiki/griffin_cooked_meat._recipe.png",
+      "name" : "Griffin Cooked Meat"
+    },
+    "griffin_feather" : {
+      "description" : "Description:   The raw material that is dropped from slaying the Griffin.  This material is mainly used to craft the Griffin Wings\n\nOrigin:  Griffin\nType:  Ingredient",
+      "image" : "https://dragon-force-studio.com/images/EF_wiki/griffin_feather.png",
+      "name" : "Griffin Feather"
+    },
+    "griffin_raw_meat" : {
+      "description" : "Description:   The raw material that is dropped from slaying the Griffin.\n\nOrigin:  Griffin\nType:  Ingredient",
+      "image" : "https://dragon-force-studio.com/images/EF_wiki/griffin_raw_meat.png",
+      "name" : "Griffin Raw Meat"
+    },
+    "griffin_special_food" : {
+      "description" : "Description:   This food is used to tame a Griffin.\n\nManufacture:  Crafting Table\nRecipe:  Beef, Porkchop\nType:  Beast Food",
+      "image" : "https://dragon-force-studio.com/images/EF_wiki/griffin_special_food.png",
+      "image1" : "https://dragon-force-studio.com/images/EF_wiki/griffin_special_food._recipe.png",
+      "name" : "Griffin Special Food"
+    },
+    "griffin_wings" : {
+      "description" : "Description:  The Griffin wings, like the pegasus wings can be used for flight.\n\nManufacture:  Crafting Table\nRecipe:  Phantom Membrane, Griffin Feather\nType:  Armor",
+      "image" : "https://dragon-force-studio.com/images/EF_wiki/griffin_wings.png",
+      "image1" : "https://dragon-force-studio.com/images/EF_wiki/griffin_wings._recipe.png",
+      "name" : "Griffin Wings"
+    },
+    "ice_dracolyte" : {
+      "description" : "Description:Ice Dracolyte is obtained by breaking down a Ice Dracolyte Ore.  This material is also used to craft the Ice Ingot\n\nRecipe: Ice Dracolyte Ore\nManufacture:  Stonecutter\nType: Material",
+      "image" : "https://dragon-force-studio.com/images/EF_wiki/ice_dracolyte.png",
+      "image1" : "https://dragon-force-studio.com/images/EF_wiki/ice_dracolyte._recipe.png",
+      "name" : "Ice Dracolyte"
+    },
+    "ice_dracolyte_crystal" : {
+      "description" : "Description:  A blue, bright and translucent crystal used to craft Cyrilite, a consumable that provides special effects\n\nRecipe:  Ice Dracolyte\nManufacture:  Blast Furnace\nType:  Material",
+      "image" : "https://dragon-force-studio.com/images/EF_wiki/ice_dracolyte_crystal.png",
+      "image1" : "https://dragon-force-studio.com/images/EF_wiki/ice_dracolyte_crystal._recipe.png",
+      "name" : "Ice Dracolyte Crystal"
+    },
+    "ice_essence" : {
+      "description" : "Description:  This Blue and live flame is used to craft the Ice Staff, only dropped after slaying the Ice Wyvern\n\nOrigin:  Ice Wyvern\nType: Ingredient",
+      "image" : "https://dragon-force-studio.com/images/EF_wiki/ice_essence.png",
+      "name" : "Ice Essence"
+    },
+    "ice_ingot" : {
+      "description" : "Description:  Ice Ingot is obtained by forging both a Ice Dracolyte and Iron Ingot in the Dracolyte Forge.  This material is mainly used to craft the Ice Sword variants\n\nRecipe:  Ice Dracolyte,  Iron Ingot\nManufacture: Dracolyte Force\nType: Material  Ice Ingot is obtained by forging both a Ice Dracolyte and Iron Ingot in the Dracolyte Forge.  This material is mainly used to craft the Ice Sword variants\n\nRecipe:  Ice Dracolyte,  Iron Ingot\nManufacture: Dracolyte Force\nType: Material",
+      "image" : "https://dragon-force-studio.com/images/EF_wiki/ice_ingot.png",
+      "image1" : "https://dragon-force-studio.com/images/EF_wiki/ice_ingot._recipe.png",
+      "name" : "Ice Ingot"
+    },
+    "igniside" : {
+      "description" : "Description:  A crafted dark red sphere, smooth enough to consume, with a side effect of Fire Resistance(5) and Absorption(5) for 3 minutes.\n\nRecipe:  Instant Healing Potion, Fire Dracolyte Crystal\nManufacture:  Crafting Table\nType:  Food",
+      "image" : "https://dragon-force-studio.com/images/EF_wiki/igniside.png",
+      "image1" : "https://dragon-force-studio.com/images/EF_wiki/igniside._recipe.png",
+      "name" : "Igniside"
+    },
+    "mana_candy" : {
+      "description" : "Description:  A sweet and pink gumball that provides mana to whoever consumes it.  This wonderful candy is craftable by using any essence. \n\nRecipe:  Fire/Ice/Poison Essence, Sugar, Bucket\nManufacture:  Crafting Table\nType:  Food",
+      "image" : "https://dragon-force-studio.com/images/EF_wiki/mana_candy.png",
+      "image1" : "https://dragon-force-studio.com/images/EF_wiki/mana_candy_fire._recipe.png",
+      "name" : "Mana Candy"
+    },
+    "paper_plaque" : {
+      "description" : "Description:  The Paper Plaque can be used in the Dracolyte Forge to craft patterns for weapons and tools\n\nRecipe:  Paper, Heavy Weighted Pressure Plate\nManufacture:  Crafting Table\nType:  Item",
+      "image" : "https://dragon-force-studio.com/images/EF_wiki/paper_plaque.png",
+      "image1" : "https://dragon-force-studio.com/images/EF_wiki/paper_plaque._recipe.png",
+      "name" : "Paper Plaque"
+    },
+    "pattern" : {
+      "description" : "Description: A pattern can be the blueprint for several tools and weapons.\n\nRecipe:  Paper Plaque, Print Catridge\nManufacture:  Dracolyte Forge\nType:  Item",
+      "image" : "https://dragon-force-studio.com/images/EF_wiki/pattern.png",
+      "image1" : "https://dragon-force-studio.com/images/EF_wiki/pattern._recipe.png",
+      "name" : "Pattern"
+    },
+    "pegasus_feather" : {
+      "description" : "Description:  The Pegasus Feather is dropped randomly by a Pegasus when idle.  It's mainly used to craft the Pegasus Wings.\n\nOrigin:  Pegasus\nType:  Item",
+      "image" : "https://dragon-force-studio.com/images/EF_wiki/pegasus_feather.png",
+      "name" : "Pegasus Feather"
+    },
+    "pegasus_white_wings" : {
+      "description" : "Description:  The pegasus wings, like the griffin wings provide flight to whomever is to equip one.  However, the pegasus wings can be dyed in red and black by just applying the dye with the wings in the Crafting Table.\n\nManufacture:  Crafting Table\nRecipe:  Phantom Membrane, Pegasus Feather\nType:  Armor",
+      "image" : "https://dragon-force-studio.com/images/EF_wiki/pegasus_white_wings.png",
+      "image1" : "https://dragon-force-studio.com/images/EF_wiki/pegasus_white_wings._recipe.png",
+      "name" : "Pegasus Wings"
+    },
+    "poison_dracolyte" : {
+      "description" : "Description: Poison Dracolyte is obtained by breaking down a Poison Dracolyte Ore.  This material is also used to craft the Poison Ingot\n\nRecipe: Poison Dracolyte Ore\nManufacture:  Stonecutter\nType: Material",
+      "image" : "https://dragon-force-studio.com/images/EF_wiki/poison_dracolyte.png",
+      "image1" : "https://dragon-force-studio.com/images/EF_wiki/poison_dracolyte._recipe.png",
+      "name" : "Poison Dracolyte"
+    },
+    "poison_dracolyte_crystal" : {
+      "description" : "Description:  A green, bright and translucent crystal used to craft Terronit, a consumable that provides special effects\n\nRecipe:  Poison Dracolyte\nManufacture:  Blast Furnace\nType:  Material",
+      "image" : "https://dragon-force-studio.com/images/EF_wiki/poison_dracolyte_crystal.png",
+      "image1" : "https://dragon-force-studio.com/images/EF_wiki/poison_dracolyte_crystal._recipe.png",
+      "name" : "Poison Dracolyte Crystal"
+    },
+    "poison_essence" : {
+      "description" : "Description:   This Yellow and Toxic flame is used to craft the Poison Staff, only dropped after slaying the Poison Wyvern\n\nOrigin:  Poison Wyvern\nType:  Ingredient",
+      "image" : "https://dragon-force-studio.com/images/EF_wiki/poison_essence.png",
+      "name" : "Poison Essence"
+    },
+    "poison_ingot" : {
+      "description" : "Description:  Poison Ingot is obtained by forging both a Poison Dracolyte and Iron Ingot in the Dracolyte Forge.  This material is mainly used to craft the Poison Sword variants\n\nRecipe:  Poison Dracolyte,  Iron Ingot\nManufacture: Dracolyte Force\nType: Material",
+      "image" : "https://dragon-force-studio.com/images/EF_wiki/poison_ingot.png",
+      "image1" : "https://dragon-force-studio.com/images/EF_wiki/poison_ingot._recipe.png",
+      "name" : "Poison Ingot"
+    },
+    "print_catridge" : {
+      "description" : "Description:  The Print Catridge can be used in the Dracolyte Forge to craft patterns for weapons and tools\n\nRecipe:  Glass Bottle, Ink Sac\nManufacture:  Crafting Table\nType:  Item",
+      "image" : "https://dragon-force-studio.com/images/EF_wiki/print_catridge.png",
+      "image1" : "https://dragon-force-studio.com/images/EF_wiki/print_catridge._recipe.png",
+      "name" : "Print Catridge"
+    },
+    "raw_angler_fish" : {
+      "description" : "Description:  The raw material that is dropped from slaying the Angler Fish.\n\nOrigin:  Angler Fish\nType:  Food",
+      "image" : "https://dragon-force-studio.com/images/EF_wiki/raw_angler_fish.png",
+      "name" : "Raw Angler Fish"
+    },
+    "serpent_cooked_meat" : {
+      "description" : "Description:   A edible food after cooking the Raw Serpent Meat\n\nManufacture:  Furnace\nRecipe:  Serpent Raw Meat\nType:  Food",
+      "image" : "https://dragon-force-studio.com/images/EF_wiki/serpent_cooked_meat.png",
+      "image1" : "https://dragon-force-studio.com/images/EF_wiki/serpent_cooked_meat._recipe.png",
+      "name" : "Serpent Cooked Meat"
+    },
+    "serpent_fang" : {
+      "description" : "Description:   The raw material that is dropped from slaying the Sea Serpent.\n\nOrigin:  Sea Serpent\nType:  Ingredient",
+      "image" : "https://dragon-force-studio.com/images/EF_wiki/serpent_fang.png",
+      "name" : "Serpent Fang"
+    },
+    "serpent_raw_meat" : {
+      "description" : "Description:   The raw material that is dropped from slaying the Sea Serpent.\n\nOrigin:  Sea Serpent\nType:  Food",
+      "image" : "https://dragon-force-studio.com/images/EF_wiki/serpent_raw_meat.png",
+      "name" : "Serpent Raw Meat"
+    },
+    "serpent_scale" : {
+      "description" : "Description:   The raw material that is dropped from slaying the Sea Serpent.\n\nOrigin:  Sea Serpent\nType:  Ingredient",
+      "image" : "https://dragon-force-studio.com/images/EF_wiki/serpent_scale.png",
+      "name" : "Serpent Scale"
+    },
+    "terronit" : {
+      "description" : "Description:  A light green sphere, smooth enough to consume.  It gives off a side effect of Speed(5) and Absorption(5) for 3 minutes.\n\nRecipe:  Instant Healing Potion, Poison Dracolyte Crystal\nManufacture:  Crafting Table\nType:  Food",
+      "image" : "https://dragon-force-studio.com/images/EF_wiki/terronit.png",
+      "image1" : "https://dragon-force-studio.com/images/EF_wiki/terronit._recipe.png",
+      "name" : "Terronit"
+    },
+    "wind_essence" : {
+      "description" : "Description:   This Bright and White flame is used to craft the Wind Staff, only dropped after slaying the Griffin\n\nOrigin:  Griffin\nType:  Ingredient",
+      "image" : "https://dragon-force-studio.com/images/EF_wiki/wind_essence.png",
+      "name" : "Wind Essence"
+    }
+  },
+  "version" : {
+    "new_version" : "1.0.6"
+  },
+  "weapons" : {
+    "code_spear" : {
+      "damage" : 12,
+      "description" : "Description:  A long pole with the wyvern's fang located at the tip of the shaft itself for penetration.  This weapon can be thrown at an enemy or prey.\nDamage:  12 \n\nMaterials:  Stick,  Dragon Fang",
+      "image" : "https://dragon-force-studio.com/images/EF_wiki/code_spear.png",
+      "image1" : "https://dragon-force-studio.com/images/EF_wiki/code_spear._recipe.png",
+      "name" : "Code Spear"
+    },
+    "draxe" : {
+      "damage" : 25,
+      "description" : "Description:  A large axe crafted by the Orc race.  And is only obtainable from slaying a Orc Captain.  \nDamage:  25 \n\nMaterials: Draxe",
+      "image" : "https://dragon-force-studio.com/images/EF_wiki/draxe.png",
+      "image1" : "https://dragon-force-studio.com/images/EF_wiki/draxe._recipe.png",
+      "name" : "Draxe"
+    },
+    "fire_sword_1" : {
+      "description" : "Description: A long and red bladed sword crafted from the unknown.  This variant however is the weakest of three, with no hilt to obtain balance and was only crafted to slay the simplest creature of night.  This weapon is only obtainable via a pattern, crafted in the dracolyte forge. \nDamage: 10 \n\nMaterials: Fire Sword 1.",
+      "image" : "https://dragon-force-studio.com/images/EF_wiki/fire_sword_1.png",
+      "image1" : "https://dragon-force-studio.com/images/EF_wiki/fire_sword_1._recipe.png",
+      "name" : "Fire Sword 1"
+    },
+    "fire_sword_2" : {
+      "description" : "Description: The red and dark blade is to be only strong and sharp.  This weapon is used by proven fighters.  And an exceptional weapon for exceptional fighters.  This weapon is only obtainable via a pattern, crafted in the dracolyte forge. \nDamage: 15 \n\nMaterials: Fire Sword 2.",
+      "image" : "https://dragon-force-studio.com/images/EF_wiki/fire_sword_2.png",
+      "image1" : "https://dragon-force-studio.com/images/EF_wiki/fire_sword_2._recipe.png",
+      "name" : "Fire Sword 2"
+    },
+    "fire_sword_3" : {
+      "description" : "Description: A very long, thin, and razor-sharp blade made from the unknown.  The sword also has a warped cross-guard, adding weight to the blade for a better weight balance.  And if you look closely a fairly small pommel is decorated with a rare gem. Only the best of many champions will successfully wield this sword in battle.  This weapon is only obtainable via a pattern, crafted in the dracolyte forge.  \nDamage: 20 \n\nMaterials: Fire Sword 3.",
+      "image" : "https://dragon-force-studio.com/images/EF_wiki/fire_sword_3.png",
+      "image1" : "https://dragon-force-studio.com/images/EF_wiki/fire_sword_3._recipe.png",
+      "name" : "Fire Sword 3"
+    },
+    "ice_sword_1" : {
+      "description" : "Description: The Ice Sword ignites your oponent on ice upon contact.  This weapon is only obtainable via a pattern(blueprint), crafted in the dracolyte forge. \nDamage: 10 \n\nMaterials: Ice Sword",
+      "image" : "https://dragon-force-studio.com/images/EF_wiki/ice_sword_1.png",
+      "image1" : "https://dragon-force-studio.com/images/EF_wiki/ice_sword_1._recipe.png",
+      "name" : "Ice Sword 1"
+    },
+    "ice_sword_2" : {
+      "description" : "Description: The Ice Sword ignites your oponent on ice upon contact.  This weapon is only obtainable via a pattern(blueprint), crafted in the dracolyte forge. \nDamage: 10 \n\nMaterials: Ice Sword",
+      "image" : "https://dragon-force-studio.com/images/EF_wiki/ice_sword_2.png",
+      "image1" : "https://dragon-force-studio.com/images/EF_wiki/ice_sword_2._recipe.png",
+      "name" : "Ice Sword 2"
+    },
+    "ice_sword_3" : {
+      "description" : "Description: The Ice Sword ignites your oponent on ice upon contact.  This weapon is only obtainable via a pattern(blueprint), crafted in the dracolyte forge. \nDamage: 10 \n\nMaterials: Ice Sword",
+      "image" : "https://dragon-force-studio.com/images/EF_wiki/ice_sword_3.png",
+      "image1" : "https://dragon-force-studio.com/images/EF_wiki/ice_sword_3._recipe.png",
+      "name" : "Ice Sword 3"
+    },
+    "orc_sword" : {
+      "description" : "Description:  This sword is dropped by orc warriors when killed.  And the possibility of it being dropped is %.\nHowever, the orc sword is the lowest of its tiers.  The last of three variants.   \nDamage:  10 \n\nMaterials: unknown",
+      "image" : "https://dragon-force-studio.com/images/EF_wiki/orc_sword.png",
+      "image1" : "https://dragon-force-studio.com/images/EF_wiki/orc_sword._recipe.png",
+      "name" : "Orc Sword"
+    },
+    "orc_sword_1" : {
+      "description" : "Description:  This sword is dropped by orc warriors when killed.  And the possibility of it being dropped is %.\nHowever, this sword is to be the second best of the three variants.  Providing a slight increase in damage. \nDamage:  15 \n\nMaterials: Orc Sword",
+      "image" : "https://dragon-force-studio.com/images/EF_wiki/orc_sword_1.png",
+      "image1" : "https://dragon-force-studio.com/images/EF_wiki/orc_sword_1._recipe.png",
+      "name" : "Orc Sword 1"
+    },
+    "orc_sword_2" : {
+      "description" : "Description:  This sword is dropped by orc warriors when killed.  And the possibility of it being dropped is %.\nThis variant of the orc swords is above the rest.  Providing more damage the what the others could ever.  \nThe adventurer that is to hold this fierce weapon, may have the power to slay the creatures of this fantasy.  \nDamage:  20 \n\nMaterials: Orc Sword_2",
+      "image" : "https://dragon-force-studio.com/images/EF_wiki/orc_sword_2.png",
+      "image1" : "https://dragon-force-studio.com/images/EF_wiki/orc_sword_2._recipe.png",
+      "name" : "Orc Sword 2"
+    },
+    "poison_sword_1" : {
+      "description" : "Description: The Poison Sword ignites your oponent on poison upon contact.  This weapon is only obtainable via a pattern(blueprint), crafted in the dracolyte forge. \nDamage: 10 \n\nMaterials: Poison Sword",
+      "image" : "https://dragon-force-studio.com/images/EF_wiki/poison_sword_1.png",
+      "image1" : "https://dragon-force-studio.com/images/EF_wiki/poison_sword_1._recipe.png",
+      "name" : "Poison Sword 1"
+    },
+    "poison_sword_2" : {
+      "description" : "Description: The Poison Sword ignites your oponent on poison upon contact.  This weapon is only obtainable via a pattern(blueprint), crafted in the dracolyte forge. \nDamage: 10 \n\nMaterials: Poison Sword",
+      "image" : "https://dragon-force-studio.com/images/EF_wiki/poison_sword_2.png",
+      "image1" : "https://dragon-force-studio.com/images/EF_wiki/poison_sword_2._recipe.png",
+      "name" : "Poison Sword 2"
+    },
+    "poison_sword_3" : {
+      "description" : "Description: The Poison Sword ignites your oponent on poison upon contact.  This weapon is only obtainable via a pattern(blueprint), crafted in the dracolyte forge. \nDamage: 10 \n\nMaterials: Poison Sword",
+      "image" : "https://dragon-force-studio.com/images/EF_wiki/poison_sword_3.png",
+      "image1" : "https://dragon-force-studio.com/images/EF_wiki/poison_sword_3._recipe.png",
+      "name" : "Poison Sword 3"
+    },
+    "ripper_spear" : {
+      "description" : "Description:  A long pole with the wyvern's fang located at the tip of the shaft itself for penetration.  This weapon can be thrown at an enemy or prey.\nDamage:  12 \n\nMaterials:  Stick,  Wyvern Fang",
+      "image" : "https://dragon-force-studio.com/images/EF_wiki/ripper_spear.png",
+      "image1" : "https://dragon-force-studio.com/images/EF_wiki/ripper_spear._recipe.png",
+      "name" : "Ripper Spear"
+    }
+  }
+}

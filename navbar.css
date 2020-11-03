@@ -1,0 +1,149 @@
+
+:root{
+    --var-height: 64px;
+}
+/* For Mobile */
+@media screen and (max-width: 720px) {
+	.navbar {
+		color: rgb(6, 106, 117);
+		/* text-transform: uppercase; */
+		font-family: sans-serif;
+		font-size: 80%;
+		background: rgb(102, 10, 10);
+		line-height: calc(var(--var-height)/2);
+		height: var(--var-height);
+		/* perspective: 1000px;
+		-webkit-perspective: 1000px;  */
+		position: fixed;
+		width: 100%;
+		top: 0;
+		z-index: 200;
+		/* object-fit: scale-down; */
+	}
+
+	.navbar img {
+		height: 100%;
+	}
+	
+	.navbar .title {
+		font-family: 'DragonForcE';
+		font-size: 200%;
+		line-height: 200%;
+		margin-top: 8px;
+		display: block;
+		height: 100%;
+		white-space: nowrap;
+		width: auto;
+		/* font */
+	}
+	
+	/* Container box to set the sides relative to */
+	.cube {
+		text-align: center;
+		margin: 0 auto;
+		height: var(--var-height);
+	}
+	.cube {
+		width: 80%;
+	}
+
+	.flop{
+		display: none;
+	}
+}
+/* For PC */
+@media screen and (min-width: 720px) {
+	.navbar {
+		color: rgb(6, 106, 117);
+		/* text-transform: uppercase; */
+		font-family: sans-serif;
+		font-size: 80%;
+		background: rgb(102, 10, 10);
+		line-height: calc(var(--var-height)/2);
+		perspective: 1000px;
+		-webkit-perspective: 1000px; 
+		position: fixed;
+		width: 100%;
+		top: 0;
+		/* object-fit: scale-down; */
+	}
+
+	.navbar img {
+		height: 100%;
+	}
+	
+	.navbar .title {
+		font-family: 'DragonForcE';
+		font-size: 300%;
+		line-height: 150%;
+		/* margin-top: 4px; */
+		display: block;
+		height: 100%;
+		white-space: nowrap;
+		/* font */
+	}
+	.cube {
+		width: 30%;
+	}
+	
+	/* Container box to set the sides relative to */
+	.cube {
+		text-align: center;
+		margin: 0 auto;
+		height: var(--var-height);
+
+		-webkit-transition: -webkit-transform .33s;
+		transition: transform .33s; /* Animate the transform properties */
+
+		-webkit-transform-style: preserve-3d;
+		transform-style: preserve-3d; /* <-NB */
+	}
+
+	/* The two faces of the cube */
+	.flop {
+		background: rgb(141, 53, 241);
+		border: 1px solid rgba(147, 184, 189, .8);
+		height: 64px;
+		/* -webkit-border-radius: 5px;
+		border-radius: 5px; */
+
+		/* -webkit-box-shadow: 0 5px 20px rgba(105, 108, 109, .3), 0 0 8px 5px rgba(208, 223, 226, .4) inset;
+		box-shadow: 0 5px 20px rgba(105, 108, 109, .3), 0 0 8px 5px rgba(208, 223, 226, .4) inset; */
+	}
+	.flippety {
+		/* background: rgb(206, 140, 40); */
+		background: rgb(102, 10, 10);
+		border: 1px solid rgb(102, 10, 10);
+
+		/* -webkit-border-radius: 5px;
+		border-radius: 5px; */
+
+		/* -webkit-box-shadow: 0 5px 20px rgba(105, 108, 109, .3), 0 0 8px 5px rgba(208, 223, 226, .4) inset;
+		box-shadow: 0 5px 20px rgba(105, 108, 109, .3), 0 0 8px 5px rgba(208, 223, 226, .4) inset; */
+	}
+
+
+	.flippety {
+		-webkit-transform: translateZ(calc(var(--var-height)/2));
+		transform: translateZ(calc(var(--var-height)/2));
+	}
+
+	.flop {
+		-webkit-transform: rotateX(-90deg) translateZ(calc(var(--var-height)/-2));
+		transform: rotateX(-90deg) translateZ(calc(var(--var-height)/-2));
+	}
+
+	.flop {
+		transition: filter .3s;
+		filter: opacity(0%);
+	}
+	.flop:hover {
+		filter: opacity(100%);
+	}
+	.cube:hover {
+		-webkit-transform: rotateX(90deg);
+		transform: rotateX(90deg); /* Text bleed at 90º */
+		cursor: pointer;
+	}
+
+}

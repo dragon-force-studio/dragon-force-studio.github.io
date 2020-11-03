@@ -1,0 +1,437 @@
+<a href="https://mcpedl.com/user/zahf22" class="creator-avatar">
+<img src="https://my.mcpedl.com/storage/users/149869/a6095812b646f6288b5d1d4c7f5a5a1a.png" alt="creator-avatar">
+</a>
+<p class="post-byline">
+By <a href="https://mcpedl.com/user/zahf22" title="Posts by zahf22" rel="author">zahf22</a> <br>
+Published on October 22, 2019 <a href="#changelog">(Updated on July 24, 2020)</a></p> <h1 class="post-title">
+Expansive Fantasy (1.0.6) Compatibility Update </h1>
+
+<div id="claim-alerts"></div>
+
+<div class="clear"></div>
+<div class="entry">
+<div class="entry-inner">
+
+<p class="no-break"><span class="st_facebook_hcount" st_title="Expansive Fantasy (1.0.6) Compatibility Update" st_url="https://mcpedl.com/dragon-zahf22-addon/" st_processed="yes"><span style="text-decoration:none;color:#000000;display:inline-block;cursor:pointer;" class="stButton"><span><span class="stMainServices st-facebook-counter" style="background-image: url("https://ws.sharethis.com/images/2017/facebook_counter.png");">&nbsp;</span><span class="stArrow"><span class="stButton_gradient stHBubble" style="display: inline-block;"><span class="stBubble_hcount">5331</span></span></span></span></span></span> <span st_via="MCPEDL" st_username="MCPEDL" class="st_twitter_hcount" st_title="Expansive Fantasy (1.0.6) Compatibility Update" st_url="https://mcpedl.com/dragon-zahf22-addon/" st_processed="yes"><span style="text-decoration:none;color:#000000;display:inline-block;cursor:pointer;" class="stButton"><span><span class="stMainServices st-twitter-counter" style="background-image: url("https://ws.sharethis.com/images/2017/twitter_counter.png");">&nbsp;</span><span class="stArrow"><span class="stButton_gradient stHBubble" style="display: inline-block;"><span class="stBubble_hcount">8885</span></span></span></span></span></span> <span st_title="Expansive Fantasy (1.0.6) Compatibility Update" st_url="https://mcpedl.com/dragon-zahf22-addon/" class="st_sharethis_hcount" st_processed="yes"><span style="text-decoration:none;color:#000000;display:inline-block;cursor:pointer;" class="stButton"><span><span class="stMainServices st-sharethis-counter" style="background-image: url("https://ws.sharethis.com/images/2017/sharethis_counter.png");">&nbsp;</span><span class="stArrow"><span class="stButton_gradient stHBubble" style="display: inline-block;"><span class="stBubble_hcount">704K</span></span></span></span></span></span></p><p>Want your own fire breathing dragon then this is the addon for you soar through the air and go wherever it will take you. Take on any enemy that comes your way. Become one with your dragon and show everyone that the bond you share with your dragon is unmatched . Do you have what it takes to become a dragon master?</p>
+
+<div class="TcBRdbco" style="clear:both;float:left;width:100%;margin:0 0 20px 0;">
+</div>
+<p></p>
+<p>Sorry it took us so long to update this addon thats because we have added a bunch of stuff to improve this addon</p>
+<p></p>
+<p>Lets start with entities</p>
+<ul>
+<li>Dragons</li>
+</ul>
+<p style="text-align: justify;">They are very hostile and very powerful, dragons have 4 variant skins, and they spawn on extreme hills, tamed dragons collar can be dyed, tamed dragons can carry 2 players,&nbsp;</p>
+<p style="text-align: justify;"><img width="100%" src="https://my.mcpedl.com/storage/addons/1534/images/expansive-fantasydragon-addon_2.png"></p>
+<p><img width="100%" src="https://my.mcpedl.com/storage/addons/1534/images/expansive-fantasydragon-addon_3.png"></p>
+<p><img width="100%" src="https://my.mcpedl.com/storage/addons/1534/images/expansive-fantasydragon-addon_4.png"><img width="100%" src="https://my.mcpedl.com/storage/addons/1534/images/expansive-fantasydragon-addon_5.png"></p>
+<p></p>
+<ul>
+<li>Wyverns</li>
+</ul>
+<p>Wyverns have 3 types the fire wyvern, ice wyvern, and poison wyvern they spawn on custom biome hills like dragons they are also very hostile and very powerful so make sure before fighting them you have a complete gear and have the stong weapons</p>
+<p><img width="100%" src="https://my.mcpedl.com/storage/addons/1534/images/expansive-fantasydragon-addon_6.png"><img width="100%" src="https://my.mcpedl.com/storage/addons/1534/images/expansive-fantasydragon-addon_7.png"><img width="100%" src="https://my.mcpedl.com/storage/addons/1534/images/expansive-fantasydragon-addon_8.png"></p>
+<p>now if you manage to defeat the wyvern or the dragon they will transform into dead entity both wyvern and dragons have their own drop items and a 50% chance of dropping eggs when dragon and wyverns are in their dead form you will need to hold an orc axe (a.k.a draxe) to get their loot&nbsp;</p>
+<p><img width="100%" src="https://my.mcpedl.com/storage/addons/1534/images/expansive-fantasydragon-addon_9.png"></p>
+<p></p>
+<ul>
+<li>Dragon and Wyvern Eggs</li>
+</ul>
+<p>all eggs only hatch on their respective blocks&nbsp;</p>
+<p></p>
+<p>dragon eggs takes 2 minecraft days to hatch</p>
+<p><img width="100%" src="https://my.mcpedl.com/storage/addons/1534/images/expansive-fantasydragon-addon_10.png"></p>
+<p></p>
+<p>wyvern eggs takes only 1 minecraft days to hatch</p>
+<p><img width="100%" src="https://my.mcpedl.com/storage/addons/1534/images/expansive-fantasydragon-addon_11.png"></p>
+<p></p>
+<p>Dragons and wyverns from eggs are tameable use salmon to tame them</p>
+<p><img width="100%" src="https://my.mcpedl.com/storage/addons/1534/images/dragon-addon_16.jpg"></p>
+<p><img width="100%" src="https://my.mcpedl.com/storage/addons/1534/images/expansive-fantasydragon-addon_12.png"></p>
+<p></p>
+<p>as minecraft time goes by baby dragons and wyverns will grow or you can speed up its growing by feeding them salmon</p>
+<p><img width="100%" src="https://my.mcpedl.com/storage/addons/1534/images/dragon-addon_17.jpg"></p>
+<p><img width="100%" src="https://my.mcpedl.com/storage/addons/1534/images/expansive-fantasydragon-addon_13.png"></p>
+<p>take note that baby dragon and wyverns like to eat chickens so dont forget to leash&nbsp; or make them sit and they loved to sleep most of the time,</p>
+<p></p>
+<p>as requested by some members on my discord we have added a riding behavior for baby dragon and wyverns, now they will ride on the shoulder of the player, to make them go down simply just hold salmon or sneak and jump</p>
+<p><img width="100%" src="https://my.mcpedl.com/storage/addons/1534/images/expansive-fantasydragon-addon_14.png"></p>
+<p></p>
+<p>When baby dragon/wyvern becomes adult you can now ride them and fly with them but you will need a&nbsp; dragon saddle to control them also take note that adult tamed dragon/wyverns will attack all hostile mobs like zombie, creeper, and all so if you take out its saddle you need to leashed them or make them sit unsaddled dragon/wyvern will not follow its owner to make them sit you need to sneak and interact with the it adult dragons/wyverns also loved to sleep you cant ride them while they are sleeping&nbsp; to wake them up put or remove its saddle or make a mob go near the sleeping dragon/wyvern,&nbsp;</p>
+<p></p>
+<p>you can breed two tamed dragon/wyvern using golden apple after a successful breeding event they will lay egg and hatch to a untamed baby dragon/wyvern</p>
+<ul>
+<li>take not that we have added gender to dragon and wyvern</li>
+</ul>
+<p><img width="100%" src="https://my.mcpedl.com/storage/addons/1534/images/dragon-addon_19.jpg"></p>
+<p><img width="100%" src="https://my.mcpedl.com/storage/addons/1534/images/dragon-addon_20.jpg"></p>
+<p></p>
+<p></p>
+<p>Flying mechanics are the same as the old version except the command_block now has been removed</p>
+<p>While flying look at the dragon body and tap the look around to idle mid air</p>
+<p><img width="100%" src="https://my.mcpedl.com/storage/addons/1534/images/dragon-addon_3.jpg"></p>
+<p>Tap fly mode to disable look around and starts flying again</p>
+<p><img width="100%" src="https://my.mcpedl.com/storage/addons/1534/images/dragon-addon_4.jpg"></p>
+<p>When on ground you can disable the fly so you can look up without flying the dragon</p>
+<p><img width="100%" src="https://my.mcpedl.com/storage/addons/1534/images/dragon-addon_5.jpg"></p>
+<p>Enable fly to start flying again</p>
+<p><img width="100%" src="https://my.mcpedl.com/storage/addons/1534/images/dragon-addon_6.jpg"></p>
+<p>Look up to fly and look down to fly down</p>
+<p><img width="100%" src="https://my.mcpedl.com/storage/addons/1534/images/dragon-addon_7.jpg"></p>
+<p></p>
+<p>Now for fireball attack you need to fly with the dragon and you need to idle mid air or the look around interaction button then you need to hold a blaze rod and interact again to the dragon/wyvern</p>
+<p><img width="100%" src="https://my.mcpedl.com/storage/addons/1534/images/dragon-addon_22.jpg"></p>
+<p></p>
+<p>You have 2-4 seconds to aim where the dragon will shoot its fireball</p>
+<p><img width="100%" src="https://my.mcpedl.com/storage/addons/1534/images/dragon-addon_23.jpg"></p>
+<p></p>
+<p>Take note that you need to practice and calculate the fireball XD&nbsp;</p>
+<p></p>
+<ul>
+<li>The Orcs</li>
+</ul>
+<p>There are 3 types of orc and they are the very important entity on this update because they have all the recipe for custom items weapons and armors</p>
+<p></p>
+<p>neutral orc spawned underground throw&nbsp; raw angler fish infront of them and they will open a trade for you for a limited time, give them diamond pickaxe and hold an orc axe (a.k.a draxe) to make them go mining</p>
+<p><img width="100%" src="https://my.mcpedl.com/storage/addons/1534/images/expansive-fantasydragon-addon_15.png"></p>
+<p></p>
+<p>orc follower spawned everywhere they are very hostile and always have an orc sword</p>
+<p>if you manage to kill them theres a 100% chance of dropping its sword this sword is upgradable through stone cutter</p>
+<p><img width="100%" src="https://my.mcpedl.com/storage/addons/1534/images/expansive-fantasydragon-addon_16.png"></p>
+<p></p>
+<p>orc captain spawn everywhere they are also very strong and very hostile they have the draxe and they wear armor orc captain always spawn riding ravager and have 2 orc follower on his side theres a 100% chance of dropping its axe when you kill it</p>
+<p><img width="100%" src="https://my.mcpedl.com/storage/addons/1534/images/expansive-fantasydragon-addon_17.png"></p>
+<p></p>
+<p>heres a video for orcs:</p>
+<p><iframe frameborder="0" src="//www.youtube.com/embed/ZfJZ2gYb5s8" class="note-video-clip" data-aspectratio="0.5625" style="width: 644px; height: 362.25px;"></iframe></p>
+<ul>
+<li>Sea Serpent</li>
+</ul>
+<p>this entity have been introduced last update but we have change its behavior it has now 2 AI and they now have their own drops</p>
+<p><img width="100%" src="https://my.mcpedl.com/storage/addons/1534/images/expansive-fantasydragon-addon_18.png"></p>
+<p></p>
+<ul>
+<li>Angler Fish</li>
+</ul>
+<p>this entity is the second important entity because the item it drops is the key to open the orc trade</p>
+<p><img width="100%" src="https://my.mcpedl.com/storage/addons/1534/images/expansive-fantasydragon-addon_19.png"></p>
+<p></p>
+<ul>
+<li>Dracolyte Forge</li>
+</ul>
+<p>this entity is also important because all weapons and armors are in them, see crafting recipe for this below, when you place the dracolyte and you want to remove it simple just sneak and clicked remove</p>
+<p><img width="100%" src="https://my.mcpedl.com/storage/addons/1534/images/expansive-fantasydragon-addon_20.png"></p>
+<p></p>
+<p></p>
+<p>now lets move to new custom biomes</p>
+<p></p>
+<ul>
+<li>scorched</li>
+<li>on this biome hills you can find fire wyverns<img width="100%" src="https://my.mcpedl.com/storage/addons/1534/images/expansive-fantasydragon-addon_21.png"></li>
+</ul>
+<p></p>
+<ul>
+<li>frostbitten biome</li>
+</ul>
+<p>on this biome you can find ice wyverns<img width="100%" src="https://my.mcpedl.com/storage/addons/1534/images/expansive-fantasydragon-addon_22.png"></p>
+<p></p>
+<p>toxic biome</p>
+<p>poison wyvern spawned on this biome</p>
+<p><img width="100%" src="https://my.mcpedl.com/storage/addons/1534/images/expansive-fantasydragon-addon_23.png"></p>
+<p></p>
+<p>now lets move to crafting</p>
+<ul>
+<li>dragon saddle</li>
+</ul>
+<p><img width="100%" src="https://my.mcpedl.com/storage/addons/1534/images/expansive-fantasydragon-addon_24.png"></p>
+<p></p>
+<ul>
+<li>fire dragon armor</li>
+</ul>
+<p><img width="100%" src="https://my.mcpedl.com/storage/addons/1534/images/expansive-fantasydragon-addon_25.png"></p>
+<p></p>
+<ul>
+<li>ice dragon armor</li>
+</ul>
+<p><img width="100%" src="https://my.mcpedl.com/storage/addons/1534/images/expansive-fantasydragon-addon_26.png"></p>
+<p></p>
+<ul>
+<li>poison dragon armor</li>
+</ul>
+<p><img width="100%" src="https://my.mcpedl.com/storage/addons/1534/images/expansive-fantasydragon-addon_27.png"></p>
+<p></p>
+<ul>
+<li>fire wyvern armor</li>
+</ul>
+<p><img width="100%" src="https://my.mcpedl.com/storage/addons/1534/images/expansive-fantasydragon-addon_28.png"></p>
+<p></p>
+<ul>
+<li>ice wyvern armor</li>
+</ul>
+<p><img width="100%" src="https://my.mcpedl.com/storage/addons/1534/images/expansive-fantasydragon-addon_29.png"></p>
+<p></p>
+<ul>
+<li>poison wyvern armor</li>
+</ul>
+<p><img width="100%" src="https://my.mcpedl.com/storage/addons/1534/images/expansive-fantasydragon-addon_30.png"></p>
+<p></p>
+<ul>
+<li>dracolyte forge note blame lusciouskneez and darkastromed they are the one who made this over priced recipe xd</li>
+</ul>
+<p><img width="100%" src="https://my.mcpedl.com/storage/addons/1534/images/expansive-fantasydragon-addon_31.png"></p>
+<p><img width="100%" src="https://my.mcpedl.com/storage/addons/1534/images/expansive-fantasydragon-addon_32.png"><img width="100%" src="https://my.mcpedl.com/storage/addons/1534/images/expansive-fantasydragon-addon_33.png"><img width="100%" src="https://my.mcpedl.com/storage/addons/1534/images/expansive-fantasydragon-addon_34.png"></p>
+<p><img width="100%" src="https://my.mcpedl.com/storage/addons/1534/images/expansive-fantasydragon-addon_35.png"></p>
+<p><img width="100%" src="https://my.mcpedl.com/storage/addons/1534/images/expansive-fantasydragon-addon_36.png"></p>
+<p><img width="100%" src="https://my.mcpedl.com/storage/addons/1534/images/expansive-fantasydragon-addon_37.png"><img width="100%" src="https://my.mcpedl.com/storage/addons/1534/images/expansive-fantasydragon-addon_38.png"></p>
+<p><img width="100%" src="https://my.mcpedl.com/storage/addons/1534/images/expansive-fantasydragon-addon_39.png"></p>
+<p><img width="100%" src="https://my.mcpedl.com/storage/addons/1534/images/expansive-fantasydragon-addon_40.png"><img width="100%" src="https://my.mcpedl.com/storage/addons/1534/images/expansive-fantasydragon-addon_41.png"><img width="100%" src="https://my.mcpedl.com/storage/addons/1534/images/expansive-fantasydragon-addon_42.png"></p>
+<p><img width="100%" src="https://my.mcpedl.com/storage/addons/1534/images/expansive-fantasydragon-addon_43.png"><img width="100%" src="https://my.mcpedl.com/storage/addons/1534/images/expansive-fantasydragon-addon_44.png"><img width="100%" src="https://my.mcpedl.com/storage/addons/1534/images/expansive-fantasydragon-addon_45.png"><img width="100%" src="https://my.mcpedl.com/storage/addons/1534/images/expansive-fantasydragon-addon_46.png"><img width="100%" src="https://my.mcpedl.com/storage/addons/1534/images/expansive-fantasydragon-addon_47.png"></p>
+<p><img width="100%" src="https://my.mcpedl.com/storage/addons/1534/images/expansive-fantasydragon-addon_48.png"><img width="100%" src="https://my.mcpedl.com/storage/addons/1534/images/expansive-fantasydragon-addon_49.png"><img width="100%" src="https://my.mcpedl.com/storage/addons/1534/images/expansive-fantasydragon-addon_50.png"><img width="100%" src="https://my.mcpedl.com/storage/addons/1534/images/expansive-fantasydragon-addon_51.png"><img width="100%" src="https://my.mcpedl.com/storage/addons/1534/images/expansive-fantasydragon-addon_52.png"></p>
+<p></p>
+<p>What&#65533;s new?</p>
+<p></p>
+<p>as requested by so many players we have added PEGASUS modelled by <span style="background-color: rgb(0, 0, 255); color: rgb(255, 255, 255);">XdemigodzX</span> right now it has only 1 skin variant im still thinking if i will add more variants to it </p>
+<p>sorry for those who are in minecraft beta i will add pegasus soon im just kinda busy right now i will try to add it on beta version possibly next week</p>
+<p></p>
+<ul>
+<li>Pegasus</li>
+</ul>
+<p>&nbsp; Pegasus is a passive mob so dont kill them they like sleeping XD almost all mobs like to sleep anyway wild pegasus spawn at plains and savanna biome they are kinda rare ,wild pegasus will avoid standing players ,so if you want to get near them make sure to sneak and wild pegasus will randomly drop feathers but not by killing them remember dont make them sleep if they sleep move close to them but not too close just wake them up and yes they are tameable , you can tame them by feeding them golden carrots and yes you need to sneak too,&nbsp;</p>
+<p><img width="100%" src="https://my.mcpedl.com/storage/addons/1534/images/expansive-fantasy-104-pegasus-and-wings-update_2.png"></p>
+<p></p>
+<p>once you tame them they will no longer drop feathers but yes you can ride them you will need to equip them with normal saddle to control tame pegasus, you can also equip chest to pegasus for extra inventory, fly? yes they can fly like dragon and wyverns you know the drill look to its body enable fly look up to fly up look down to fly down and you can heal them by feeding them wheats or apples</p>
+<p><img width="100%" src="https://my.mcpedl.com/storage/addons/1534/images/expansive-fantasy-104-pegasus-and-wings-update_3.png"></p>
+<p></p>
+<p></p>
+<p>now lets move to another new feature for this update that darkastomed finally convinced me to add wings for this addon so here it is&nbsp;</p>
+<p><img width="100%" src="https://my.mcpedl.com/storage/addons/1534/images/expansive-fantasy-104-pegasus-and-wings-update_4.png"></p>
+<p>and yes they are functional right now we only added pegasus wings but it has 3 color variants black, red, and white how to fly? its simple you will need to use wing orb then look up to fly up look down to fly down i recommend changing your camera view to third person back view when flying as we added animation for flying when you are flying look down and sneak to idle mid air but be careful flying has limited time i recommend bringing atleast 2 wing orb so you can see how much time is left for your flying i swear i died many times falling in a high place XD .</p>
+<p></p>
+<p><img width="100%" src="https://my.mcpedl.com/storage/addons/1534/images/expansive-fantasy-104-pegasus-and-wings-update_5.png"></p>
+<p></p>
+<p>now lets move to crafting recipe&nbsp;</p>
+<ul>
+<li>Pegasus White Wings</li>
+</ul>
+<p>8 pegasus feather</p>
+<p>1 phantom membrane</p>
+<p></p>
+<p><img width="100%" src="https://my.mcpedl.com/storage/addons/1534/images/expansive-fantasy-104-pegasus-and-wings-update_6.png"></p>
+<p></p>
+<ul>
+<li>Pegasus Red Wings</li>
+</ul>
+<p>1 pegasus white wings</p>
+<p>1 red dye</p>
+<p></p>
+<p><img width="100%" src="https://my.mcpedl.com/storage/addons/1534/images/expansive-fantasy-104-pegasus-and-wings-update_7.png"></p>
+<p></p>
+<ul>
+<li>Pegasus Black Wings</li>
+</ul>
+<p>1 pegasus white wings</p>
+<p>1 black dye</p>
+<p></p>
+<p><img width="100%" src="https://my.mcpedl.com/storage/addons/1534/images/expansive-fantasy-104-pegasus-and-wings-update_8.png"></p>
+<p></p>
+<ul>
+<li>Wing remover</li>
+</ul>
+<p>1 fermented spider eye</p>
+<p>1 ender pearl</p>
+<p><img width="100%" src="https://my.mcpedl.com/storage/addons/1534/images/expansive-fantasy-104-pegasus-and-wings-update_9.png"></p>
+<p></p>
+<ul>
+<li>Wing orb</li>
+</ul>
+<p>7 pegasus feathers</p>
+<p>1 ender pearl</p>
+<p>1 potion of slowness</p>
+<p><img width="100%" src="https://my.mcpedl.com/storage/addons/1534/images/expansive-fantasy-104-pegasus-and-wings-update_10.png"></p>
+<p></p>
+<p>heres a tutorial video&nbsp;</p>
+<p><iframe frameborder="0" src="//www.youtube.com/embed/LJDK01cWkpI" class="note-video-clip" data-aspectratio="0.5625" style="width: 644px; height: 362.25px;"></iframe></p>
+<p>the griffin update(1.0.5)</p>
+<p><img width="100%" src="https://my.mcpedl.com/storage/addons/1534/images/93257de72bd2cb77fe630fb725133747.png"></p>
+<ul>
+<li>Griffins</li>
+</ul>
+<p>Griffins are aggressive creatures they resemble the cross between a lion and eagle. They&#65533;re dangerous and are able to manipulate wind with their wings, forcing powerful gust of air. Able to fly at head spinning speeds, they can snatch prey in a blink of eye. They can be tamed and are a good choice of mount if you want a companion that won&#65533;t freeze, melt, or burn your house down. If so, be my guest.</p>
+<ul>
+<li>spawn at mesa biome and plains biome</li>
+</ul>
+<p></p>
+<p>new weapons and items</p>
+<ul>
+<li>ripper spear</li>
+<li>craft using stick and wyvern claw</li>
+</ul>
+<p><img width="100%" src="https://my.mcpedl.com/storage/addons/1534/images/61bd2fbb2455e036e2a05516014a11fc.png"></p>
+<p></p>
+<ul>
+<li>code spear</li>
+<li>craft using stick and dragon claw</li>
+</ul>
+<p><img width="100%" src="https://my.mcpedl.com/storage/addons/1534/images/e525e6defa18090732738f07d91c6c0c.png"></p>
+<p></p>
+<ul>
+<li>mana candy</li>
+<li>craft using any kinds of essence, bucket of milk and sugar</li>
+</ul>
+<p><img width="100%" src="https://my.mcpedl.com/storage/addons/1534/images/ff6134222a4f69d0d0e86ae4f83ff4be.png"></p>
+<p></p>
+<ul>
+<li>grappling hook&nbsp;</li>
+<li>craft using lead, stick and iron ingots</li>
+</ul>
+<p><img width="100%" src="https://my.mcpedl.com/storage/addons/1534/images/6a80eb05e35d389c1cd4838260a85f4d.png"></p>
+<p></p>
+<ul>
+<li>fire staff</li>
+<li>craft using stick, iron ingot and fire essence</li>
+</ul>
+<p><img width="100%" src="https://my.mcpedl.com/storage/addons/1534/images/69bb46b227330e4faeecf2af2bf3037c.png"></p>
+<p></p>
+<ul>
+<li>ice staff</li>
+<li>craft using stick, iron ingot and ice essence</li>
+</ul>
+<p><img width="100%" src="https://my.mcpedl.com/storage/addons/1534/images/42ea841c7998fb43856d5feddba994fd.png"></p>
+<p></p>
+<ul>
+<li>poison staff</li>
+<li>craft using stick, iron ingot and poison essence</li>
+</ul>
+<p><img width="100%" src="https://my.mcpedl.com/storage/addons/1534/images/3d444b56cf81e244828d7bf802a882d1.png"></p>
+<p></p>
+<ul>
+<li>wind staff</li>
+<li>craft using stick, iron ingot and wind essence</li>
+</ul>
+<p><img width="100%" src="https://my.mcpedl.com/storage/addons/1534/images/67ccbbfaa9b2c71cc451071ff27f6944.png"></p>
+<p></p>
+<ul>
+<li>griffin wings</li>
+<li>craft using phantom membrane and griffin feathers</li>
+</ul>
+<p><img width="100%" src="https://my.mcpedl.com/storage/addons/1534/images/expansive-fantasy-104-pegasus-and-wings-update_11.png"></p>
+<p></p>
+<ul>
+<li>griffin special food</li>
+<li>craft using porkchop and beef</li>
+</ul>
+<p><img width="100%" src="https://my.mcpedl.com/storage/addons/1534/images/expansive-fantasy-104-pegasus-and-wings-update_12.png"></p>
+<p></p>
+<p>essence are new drops for&nbsp;</p>
+<ul>
+<li>dragons(wind essence)</li>
+<li>fire wyvern(fire essence)</li>
+<li>ice wyvern(ice essence)</li>
+<li>poison wyvern(poison essence)</li>
+<li>griffins(wind essence)</li>
+</ul>
+<p></p>
+<p>you will need to stun a griffin to be able to tame it ,you will need&nbsp;</p>
+<p>bow or crossbow and arrow of weakness use the special griffin food&nbsp;</p>
+<p>to tame a stun griffin.</p>
+<p></p>
+<p>Heres a tutorial video on how to tame a griffin:</p>
+<p><iframe frameborder="0" src="//www.youtube.com/embed/8DSwExxcVcc" class="note-video-clip" data-aspectratio="0.5625" style="width: 644px; height: 362.25px;"></iframe></p>
+<p></p>
+<p></p>
+<p>&nbsp;this update is only to make 2 addons compatible to Expansive Fantasy watch the video on how to setup the addons to work properly</p>
+<p></p>
+<p><iframe frameborder="0" src="//www.youtube.com/embed/Qfo5AIZVX-w" class="note-video-clip" data-aspectratio="0.5625" style="width: 644px; height: 362.25px;"></iframe></p>
+<p></p>
+<p>-take note-</p>
+<p>Expansive-fantasy behavior should be on the top of the list</p>
+<p></p>
+<p>Tinkers Legacy by HaxTheCharizard</p>
+<p>and</p>
+<p>Loot Bag Addon bt Iemotionless&nbsp;</p>
+<p></p>
+<p>Tinkers Legacy:&nbsp;</p>
+<p>https://mcpedl.com/tinkers-legacy/</p>
+<p></p>
+<p>Loot Bag Addon:</p>
+<p>https://mcpedl.com/loot-bags-addon/</p>
+<p></p>
+<p>special thanks to</p>
+<ul>
+<li>hawf</li>
+<li>jannis</li>
+<li>Zarkmend_ZAN</li>
+</ul>
+<p></p>
+<p>Video trailer:</p>
+<p><iframe frameborder="0" src="//www.youtube.com/embed/PWFkyu-TZV0" class="note-video-clip" data-aspectratio="0.5625" style="width: 644px; height: 362.25px;"></iframe></p>
+<p></p>
+<p><span style="background-color: rgb(255, 255, 0);">Do not use your own link, use the appropriate link in MCPEDL</span></p>
+<p><span style="background-color: rgb(255, 255, 0);">If you want to use this for your content, at least credit Dragon Force Studio .</span></p>
+<p></p>
+<p>My youtube channel: <a href="https://www.youtube.com/channel/UCNAmHJ2jvh4tn9pSr671HWQ">https://www.youtube.com/channel/UCNAmHJ2jvh4tn9pSr671HWQ</a></p>
+<p>My discord server: <a href="https://discord.gg/n2Bxdwk">https://discord.gg/n2Bxdwk</a><a href="https://discord.gg/n2Bxdwk" target="_blank" rel="noopener noreferrer"></a></p>
+<p>My twitter&nbsp; https://twitter.com/ck_zahf22</p>
+<p></p>
+
+<div id="changelog"></div>
+<div class="form-group">
+<label for="version-select">Select version for changelog:</label>
+<select class="form-control" id="version-select">
+<option value="1.0.8" selected="">1.0.8</option>
+<option value="1.0.7">1.0.7</option>
+<option value="1.0.6">1.0.6</option>
+<option value="1.0.5">1.0.5</option>
+<option value="1.0.4">1.0.4</option>
+<option value="1.0.3">1.0.3</option>
+<option value="1.0.2">1.0.2</option>
+<option value="1.0.1">1.0.1</option>
+</select>
+</div>
+
+<div id="changelogs">
+<div class="changelog-header">
+Changelog
+<span class="pull-right spoiler-link"><a href="#">View more<i class="fa fa-angle-down"></i></a></span>
+</div>
+
+<div class="changelog active" data-version="1.0.8">
+<ul><li>added compatibility to tinkers legacy by HaxTheCharizard&nbsp;</li><li>added compatibility to loot bag addon by iemotionless&nbsp;</li><li>fixed the duplication bug on grappling_hook and spears</li><li>reduced orc captain spawn rate</li><li>fixed the bug for scorched biome where fire wyvern doesnt spawn</li><li>fixed the bug for toxic biome where poison wyvern doesn't spawn</li><li>updated icon_pack.png</li></ul> </div>
+<div class="changelog" data-version="1.0.7">
+<ul><li>added support for 1.16</li><li>fixed mobs not spawning at poison biome</li><li>optimized code</li><li>fix some bugs</li><li>optimized animation</li><li>reduced orc spawn rate</li></ul> </div>
+<div class="changelog" data-version="1.0.6">
+<ul><li>optimized the codes</li><li>added some story books by code_error#6844 and crackerjack96#5250&nbsp;</li><li>added new mob (griffin) modelled and textured by demigodz&nbsp;</li><li>added new wings(griffin wings) modelled and textured by lusciouskneez&nbsp;</li><li>added staffs textured by JustinMN#2409&nbsp;</li><li>added grappling_hook modelled and textured by ripper123456789#7140&nbsp;</li><li>added ripper spear modelled and textured by ripper123456789#7140&nbsp;</li><li>added code spear modelled and textured by code_error#6844&nbsp;</li><li>added new mob drops(essence)</li><li>added pixel art on books by twiggy, ripper123456789#7140 and carlito</li><li>converted wing orb into mana candy</li><li>retextured some items by JustinMN#2409&nbsp;</li><li>new flying mechanics&nbsp;</li><li>new attacking mechanics&nbsp;</li></ul> </div>
+<div class="changelog" data-version="1.0.5">
+<ul><li>optimize the code</li><li>added new mob griffin modelled by demigodz&nbsp;</li><li>added staffs textured by JustinMN#2409&nbsp;</li><li>added ripper spear modelled by ripper123456789#7140&nbsp;</li><li>added code spear modelled by code_error#6844&nbsp;</li><li>retextured some items by JustinMN#2409 and ripper123456789#7140&nbsp;</li><li>added some story books</li><li>added grappling_hook modelled and textured by ripper123456789#7140</li><li>added griffin wings modelled and textured by lusciouskneez&nbsp;</li><li>added mana system</li><li>new flying mechanics for player and rideable mobs</li><li>new attacking mechanics for rideable mobs</li><li>added taiwan language by @kingkingsley400#7364</li><li>added some pixel art to story books by carlito, ripper and twiggy</li></ul> </div>
+<div class="changelog" data-version="1.0.4">
+<ul><li>added pegasus</li><li>added wings for players</li><li>reduced hatching time for dragon egg from 5 days to 2 days</li><li>reduced hatching time for wyvern eggs from 3 days to 1 day</li><li>reduced blocks breaking time</li><li>reduced captain orcs spawn rate</li><li>increase wyverns spawn rate</li></ul><p>enjoy guys XD</p> </div>
+<div class="changelog" data-version="1.0.3">
+<p>added support for minecraft 1.15(beta)</p><p>updated description for dragon</p><p>added dragon collar dyeable&nbsp;</p><p>added 2 players can ride the dragon</p><p>dragon can have chest</p> </div>
+<div class="changelog" data-version="1.0.2">
+<ul><li>added wyverns</li><li>added custom blocks</li><li>added custom biomes</li><li>improved dragon behavior</li><li>added orcs</li><li>added custom items</li><li>added custom weapons</li><li>added angler fish</li><li>improved sea serpent behavior</li><li>change pack icon</li><li>updated discord link</li></ul> </div>
+<div class="changelog" data-version="1.0.1">
+<ul><li>icon pack have been change by [twiggy]</li><li>added three variant skin for the dragon</li><li>added new mob sea serpent</li><li>added gliding wings animation for the dragon</li><li>new gliding sound for the dragon</li><li>replaced the function fly_system to function dragon_addon</li><li>added dragon egg</li><li>added baby dragons</li><li>added saddle for the dragon</li><li>added sleeping event and animation for dragons</li><li>added sitting event and animation for dragons</li><li>added leashed locator for dragon</li><li>added collar for tamed dragons</li></ul> </div>
+</div>
+
+<h3>Installation</h3>
+
+<p></p><p>download the addon and activate to your world</p><p><span style="background-color: rgb(255, 255, 0);">Enable Experimental Gameplay&nbsp;</span></p><p>we recommend making a copy of your world</p><p>and removing the old version of the addon before activating the new version</p><p></p>
+
+<h3>Downloads</h3>
+
+<ul id="download-list">
+<a href="https://direct-link.net/148461/ExpansiveFantasy" target="_blank"><button>Download via Linkvertise</button></a>
+</ul>
+
+<h3>Supported Minecraft versions</h3>
+
+<p><a href="https://mcpedl.com/version/1-16/" rel="minecraft version" class="guide-link">1.16</a></p>
+
+<p></p></div><p></p>
+
+<div class="clear"></div>
+</div>
+
+<p></p>

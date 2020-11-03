@@ -1,0 +1,63 @@
+
+.round-icon {
+    max-width: 40px;
+    max-height: 40px;
+    padding: 4px;
+    border-radius: 48px;
+    background-color:rgb(129, 19, 19);
+    
+}
+
+.navbar {
+    background-color:rgb(129, 19, 19);
+    width: 100%;
+    height: 48px;
+    text-align: center;
+    z-index : 100;
+    display:flex; flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.navbar button {
+    background-color:rgb(129, 19, 19);
+    border: none;
+    outline: none;
+    cursor: pointer;
+    width: 15%;
+    height: 48px;
+    transition: background-color .1s, border-bottom .1s ease-in;
+}
+.navbar button:hover {
+    background-color:rgb(182, 38, 38);
+    border-bottom: 4px solid white;
+}
+
+.navbar .titletext {
+    flex-direction: column;
+    display: flex;
+    height: 100%;
+    margin-top: 4px;
+    padding-top: 8px;
+    transition: padding .1s, background-color .2s;
+}
+.navbar .titletext .subtitle {
+    font-size: 0;
+    transition: font-size .3s;
+    visibility: hidden;
+}
+.navbar .titletext:hover {
+    padding-top: 0;
+    flex-direction: column;
+    display: flex;
+    height: 44px;
+    margin-top: 4px;
+    background-color:rgb(185, 17, 17);
+    cursor: pointer;
+    padding: 4px;
+    border-radius: 4px;
+    box-shadow: 2px 2px 8px rgba(36, 36, 36, 0.425);
+}
+.navbar .titletext:hover .subtitle {
+    font-size: 12px;
+    visibility: visible;
+}

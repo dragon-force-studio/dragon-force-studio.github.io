@@ -1,656 +1,356 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<html>
+    <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+        <link rel="stylesheet" href="index.css">
+        <!-- <link type="text/css" rel="stylesheet" href="navbar.css"> -->
+        <!-- <link rel="stylesheet" href="nav.css"> -->
+        <link rel="icon" type="image/png" href="images/logo_dfs.png">
+        <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@600&display=swap" rel="stylesheet">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+        <script data-ad-client="ca-pub-9638544368327690" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+        <link rel="stylesheet" href="css/DragonForcE.ttf">
+        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <link href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@700&display=swap" rel="stylesheet">
+        <title>Dragon Force Studio</title>
     
-    <!-- SEO Meta Tags -->
-    <meta name="description" content="We are Dragon Force Studio,we develope quality addons, maps, texture packs, and skins for minecraft bedrock">
-    <meta name="author" content="zahf22">
-
-    <!-- OG Meta Tags to improve the way the post looks when you share the page on LinkedIn, Facebook, Google+ -->
-	<meta property="og:site_name" content="DRAGON FORCE STUDIO" /> <!-- website name -->
-	<meta property="og:site" content="https://dragon-force-studio.codragon-force-studio.com" /> <!-- website link -->
-	<meta property="og:title" content="DRAGON FORCE STUDIO"/> <!-- title shown in the actual shared post -->
-	<meta property="og:description" content="We are Dragon Force Studio,we develope quality addons, maps, texture packs, and skins for minecraft bedrock" /> <!-- description shown in the actual shared post -->
-	<meta property="og:image" content="images/dfs.jpg" /> <!-- image link, make sure it's jpg -->
-	<meta property="og:url" content="https://dragon-force-studio.com" /> <!-- where do you want your post to link to -->
-	<meta property="og:type" content="article" />
-
-    <!-- Website Title -->
-    <title>DFS - we make quality addons, skins, and maps</title>
-    
-    <!-- Styles -->
-    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,600,700" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700,700i" rel="stylesheet">
-    <link href="css/bootstrap.css" rel="stylesheet">
-    <link href="css/fontawesome-all.css" rel="stylesheet">
-    <link href="css/swiper.css" rel="stylesheet">
-	<link href="css/magnific-popup.css" rel="stylesheet">
-	<link href="css/styles.css" rel="stylesheet">
 	<script data-ad-client="ca-pub-4398497222466431" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-	
-	<!-- Favicon  -->
-    <link rel="icon" href="images/pack_icon.png">
-</head>
-<body data-spy="scroll" data-target=".fixed-top">  
-  
-    <!-- Preloader -->
-	<div class="spinner-wrapper">
-        <div class="spinner">
-            <div class="bounce1"></div>
-            <div class="bounce2"></div>
-            <div class="bounce3"></div>
-        </div>
-    </div>
-    <!-- end of preloader -->
-	
-	<!-- Navbar -->
-    <nav class="navbar navbar-expand-md navbar-dark navbar-custom fixed-top">
+        <!-- OG Meta Tags to improve the way the post looks when you share the page on LinkedIn, Facebook, Google+ -->
+        <meta property="og:site_name" content="DRAGON FORCE STUDIO" /> <!-- website name -->
+        <meta property="og:site" content="https://dragon-force-studio.codragon-force-studio.com" /> <!-- website link -->
+        <meta property="og:title" content="DRAGON FORCE STUDIO"/> <!-- title shown in the actual shared post -->
+        <meta property="og:description" content="We are Dragon Force Studio,we develop quality addons, maps, texture packs, and skins for minecraft bedrock" /> <!-- description shown in the actual shared post -->
+        <meta property="og:image" content="images/dfs.jpg" /> <!-- image link, make sure it's jpg -->
+        <meta property="og:url" content="https://dragon-force-studio.com" /> <!-- where do you want your post to link to -->
+        <meta property="og:type" content="article" />
 
-        <!-- Image Logo -->
-        <a class="navbar-brand logo-image" href="index.html"><img src="images/DFS.svg" alt="DFS"></a> 
-        
-        <!-- Mobile Menu Toggle Button -->
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="navbar-toggler-awesome fas fa-bars"></span>
-            <span class="navbar-toggler-awesome fas fa-times"></span>
-        </button>
-        <!-- end of mobile menu toggle button -->
-		
-        <div class="collapse navbar-collapse" id="navbarsExampleDefault">
-            <ul class="navbar-nav ml-auto">
-                <li class="nav-item">
-                    <a class="nav-link page-scroll" href="#header">HOME <span class="sr-only">(current)</span></a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link page-scroll" href="#members">MEMBERS</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link page-scroll" href="#downloads">DOWNLOADS</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link page-scroll" href="#about">ABOUT US</a>
-                </li>
-            </ul>
-            <span class="nav-item social-icons">
-                <span class="fa-stack">
-                    <a href="https://paypal.me/zahf22">
-                        <i class="fas fa-circle fa-stack-2x"></i>
-                        <i class="fab fa-paypal fa-stack-1x"></i>
-                    </a>
-                </span>
-                <span class="fa-stack">
-                    <a href="https://twitter.com/ck_zahf22?s=09">
-                        <i class="fas fa-circle fa-stack-2x"></i>
-                        <i class="fab fa-twitter fa-stack-1x"></i>
-                    </a>
-                </span>
-            </span>
+        <!-- Include this to make the og:image larger -->
+        <meta name="twitter:card" content="summary_large_image">
+        <!-- Menu bar close/open on mobile -->
+        <script>
+                // 
+                // MENU BAR COLLAPSE
+                // 
+                function collapsePanel(self){
+                    if(self.innerText == "X"){
+                        // Close the panel
+                        try{
+                            self.innerText = "...";
+                            document.querySelector(".subnavitems").style.top = "-165px";
+                            // var arr = document.querySelectorAll(".subnavbar>.subnavitems>a");
+                            // arr.forEach(elm => {
+                            //     elm.style.display = "none";
+                            // });
+                        }catch(e){console.log(e)}
+                    }else{
+                        // Open the panel
+                        try{
+                            self.innerText = "X";
+                            //document.querySelector(".subnavitems").stlye.top = "100%";
+                            document.querySelector(".subnavitems").style.top = "0";
+                            // var arr = document.querySelectorAll(".subnavbar>.subnavitems>a");
+                            // arr.forEach(elm => {
+                            //     elm.style.display = "block";
+                            // });
+                        }catch(e){console.log(e)}
+                    }
+                }
+                // Auto hide the menubar on mobile
+                function onWindowResize() {
+                    if(window.screen.width < 720){
+                        try{
+                            var self = document.getElementById("asldkfjhasdfoi");
+                            // self.style.display = "block";
+                            self.innerText = "...";
+                            // var elm = document.querySelectorAll(".subnavbar>a:not(.closebutton)");
+                            // for(var i in elm){
+                            //     elm[i].style.display = "none";
+                            // }
+                        }catch(e){}
+                    }else{
+                        try{
+                            var self = document.getElementById("asldkfjhasdfoi");
+                            // self.style.display = "none";
+                            var elm = document.querySelectorAll(".subnavbar>a:not(.closebutton)");
+                            for(var i in elm){
+                                elm[i].style.display = "block";
+                            }
+                        }catch(e){}
+                    }
+                }
+                
+                window.onresize = onWindowResize;</script>
+    </head>
+    <body onload="onWindowResize();">
+        <script>
+            CSS.paintWorklet.addModule('./bubblePaint.js')
+        </script>
+        <div class="navbar">
+            <!-- <a href="index.html"><img src="images/logo-white.png"></a> -->
+            <div class="cube">
+                <div class="flippety">
+                    <!-- <h1>Dragon Force Studio</h1> -->
+                    <img src="images/logo-white.png" style="max-height: 50px; width:100%; object-fit: scale-down">
+                    <!-- <a href="index.html" class="title">Dragon Force Studio</a> -->
+                </div>
+                <div class="flop">
+                    <h2>Join us on discord</h2>
+                </div>
+            </div>
         </div>
-    </nav> <!-- end of navbar -->
-    <!-- end of navbar -->
 
-    <!-- Header -->
-    <header id="header" class="header">
-        <div class="header-content">
+        <div class="subnavbar">
+            <div class="subnavitems">
+                <a href="/index.html">Home</a>
+                <a href="/subpages/about.html">About</a>
+                <a href="/subpages/apply.html">Apply</a>
+                <a href="/wiki.html">Wiki</a>
+                <a href="/subpages/contact.html">Contact Us</a>
+                <p id="asldkfjhasdfoi" class="closebutton" onclick="collapsePanel(this)">X</p>
+            </div>
+        </div>
+        <div class="separator"></div>
+        <div class="logo rellax" data-rellax-speed="5"></div>
+        <img class="logoimg" src="images\logo-HD.png">
+        <div class="columncontainer">
+            <img src="images/renders/black-dragon.png">
+            <div class="content">
+                <h1>Who are we?</h1>
+                <p>
+                        We are Dragon Force Studio,we develop quality addons, maps, texture packs, and skins for minecraft bedrock.
+                    Our mission is to create quality and 
+                    unique addons, texture packs, skins,
+                    and maps to provide to Minecraft Bedrock players.
+                    <br><br>
+                    As a team we aim to expand
+                    the potential of Minecraft
+                    to make it a more enjoyable experience.</p>
+            </div>
+        </div>
+
+        <div class="columncontainer">
+            <div class="teamskin">
+                <div id="zahf">
+                    <a><img src="images/renders/zahf.png"></a>
+                </div>
+                <div id="twiggy">
+                    <a><img src="images/renders/twiggy.png"></a>
+                </div>
+            </div>
+            <div class="teamdesc-container">
+                <h1>Meet The team</h1>
+                <div class="teamdesc">
+                    <div id="zahf">
+                        <h2>Zahf - The team leader</h2>
+                        <p>Head of the team, founder of Dragon-Force-Studio. Head of the team, founder of Dragon-Force-Studio. Head of the team, founder of Dragon-Force-Studio. Head of the team, founder of Dragon-Force-Studio.</p>
+                    </div>
+                    <div id="twiggy">
+                        <h2>TWIGGY - The modeller</h2>
+                        <p>
+                            Modeller and animator of the team. Always wanted to tame and ride a dragon through the vast biomes. I'm still learning more and more , everytime I make a new model I learn something new to take my model to the next level.               
+                        </p>
+                        <br>
+                        <a href="https://m.youtube.com/channel/UCAvNrRs37Gt5b2biu1N7-oQ">YouTube channel</a>
+                        <br>
+                        <a href="https://twitter.com/TWIGGY_1006?s=09">Twitter</a>                    
+                    </div>  
+                </div>
+                
+                <div class="teamprogress"></div>
+            </div>
+            <script>
+                // Profile cycler
+                progress = 0;
+                profindex = 1;
+                profiles = ["zahf", "twiggy"];
+                profile = profiles[profindex];
+                root = document.documentElement;
+                setInterval(()=>{
+                    progress += 1;
+                    root.style.setProperty('--team-progress', String(progress) + "%");
+                    if(progress > 100){
+                        progress = 0;
+                        profindex += 1;
+                        profile = profiles[profindex % profiles.length];
+                        refreshActiveProfile();
+                    }
+                }, 60);
+
+                function refreshActiveProfile(){
+                    // Sets the current profile displayed
+                    document.querySelectorAll(".teamskin > div").forEach((val) => {val.style.display = "none";val.classList.remove("animatedfadein");});
+                    document.querySelector(".teamskin > #" + profile).style.display = "block";
+                    document.querySelector(".teamskin > #" + profile).classList.add("animatedfadein");
+
+                    document.querySelectorAll(".teamdesc > div").forEach((val) => {val.style.height = "0";val.classList.remove("animatedfadein");});
+                    document.querySelector(".teamdesc > #" + profile).style.height = "100%";
+                    document.querySelector(".teamdesc > #" + profile).classList.add("animatedfadein");
+                }
+                refreshActiveProfile();
+            </script>
+        </div>
+<div class="post-wrapper"><h1>Addons</h1><div class="post-container">
+                            <a class="post" href="posts/addons/among-us-map-builder/post.html">
+                                <img src="posts/addons/among-us-map-builder/thumb.png">
+                            </a>
+
+                            <a class="post" href="posts/addons/coins-addon/post.html">
+                                <img src="posts/addons/coins-addon/thumb.png">
+                            </a>
+
+                            <a class="post" href="posts/addons/colorblindpack/post.html">
+                                <img src="posts/addons/colorblindpack/thumb.png">
+                            </a>
+
+                            <a class="post" href="posts/addons/expansive-fantasy/post.html">
+                                <img src="posts/addons/expansive-fantasy/thumb.png">
+                            </a>
+
+                            <a class="post" href="posts/addons/ultimate-fantasy-skinpack/post.html">
+                                <img src="posts/addons/ultimate-fantasy-skinpack/thumb.png">
+                            </a>
+</div><h1>Tools</h1><div class="post-container">
+                            <a class="post" href="posts/tools/cc/post.html">
+                                <img src="posts/tools/cc/thumb.png">
+                            </a>
+
+                            <a class="post" href="posts/tools/crafting-table-recipe-maker/post.html">
+                                <img src="posts/tools/crafting-table-recipe-maker/thumb.png">
+                            </a>
+
+                            <a class="post" href="posts/tools/mcpacker/post.html">
+                                <img src="posts/tools/mcpacker/thumb.png">
+                            </a>
+</div></div>        <div class="columncontainer">
+            <img src="posts/addons/expansive-fantasy/thumb.png">
+            <div class="content">
+                <h1>Expansive Fantasy</h1>
+                <p>
+                    Want your own fire breathing dragon then this is the 
+                    addon for you soar through the air and go wherever 
+                    it will take you. Take on any enemy that comes your way. 
+                    Become one with your dragon and show everyone that the 
+                    bond you share with your dragon is unmatched . 
+                    Do you have what it takes to become a dragon master?
+                </p>
+                <a style="text-align: center" href="posts/addons/expansive-fantasy/post.html"><button>View Addon</button></a>
+            </div>
+        </div>
+        <div class="columncontainer">
+            <img src="posts/addons/ultimate-fantasy-skinpack/thumb.png">
+            <div class="content">
+                <h1>Ultimate Fantasy Skin Pack</h1>
+                <p>
+                    Ultimate Fantasy brings five new awesome skins! 
+                    Become a mystic Blue Sorcerer. 
+                    Or show off your inner wickedness with the Dark Sorcerer. 
+                    From the divine Angle Girls enlightenment. 
+                    To Hell Boys fiery endure. 
+                    And Wind Girls otherworldly omen. 
+                    This skin pack adds five amazing skins. 
+                    Impress your friends with the new Ultimate Fantasy skin pack!
+                </p>
+                <a style="text-align: center" href="posts/addons/ultimate-fantasy-skinpack/post.html"><button>View addon</button></a>
+            </div>
+        </div>
+        <div class="columncontainer">
+            <img src="images/renders/social.png">
+            <div class="content" style="flex-grow: 1">
+                <h1 id="contact_us">Contact us</h1>
+                <a target="_blank" href="https://discord.gg/n2Bxdwk" style="text-align: center"><button class="discordbtn">Join Discord</button></a>
+                <a target="_blank" href="https://www.youtube.com/c/zahfgaming" style="text-align: center"><button>Youtube</button></a>
+                <a target="_blank" href="https://twitter.com/ck_zahf22?s=09" style="text-align: center"><button class="twitterbtn">Twitter</button></a>
+                <a target="_blank" href="https://facebook.com/zahfgaming" style="text-align: center"><button class="facebookbutton">Facebook</button></a>
+            </div>
+        </div>
+        <!-- <div class="maindivider" style="position: relative">
+            <div class="content">
+<div class="post-wrapper"><h1>Addons</h1><div class="post-container">
+                            <a class="post" href="posts/addons/among-us-map-builder/post.html">
+                                <img src="posts/addons/among-us-map-builder/thumb.png">
+                            </a>
+
+                            <a class="post" href="posts/addons/coins-addon/post.html">
+                                <img src="posts/addons/coins-addon/thumb.png">
+                            </a>
+
+                            <a class="post" href="posts/addons/colorblindpack/post.html">
+                                <img src="posts/addons/colorblindpack/thumb.png">
+                            </a>
+
+                            <a class="post" href="posts/addons/expansive-fantasy/post.html">
+                                <img src="posts/addons/expansive-fantasy/thumb.png">
+                            </a>
+
+                            <a class="post" href="posts/addons/ultimate-fantasy-skinpack/post.html">
+                                <img src="posts/addons/ultimate-fantasy-skinpack/thumb.png">
+                            </a>
+</div><h1>Tools</h1><div class="post-container">
+                            <a class="post" href="posts/tools/cc/post.html">
+                                <img src="posts/tools/cc/thumb.png">
+                            </a>
+
+                            <a class="post" href="posts/tools/crafting-table-recipe-maker/post.html">
+                                <img src="posts/tools/crafting-table-recipe-maker/thumb.png">
+                            </a>
+
+                            <a class="post" href="posts/tools/mcpacker/post.html">
+                                <img src="posts/tools/mcpacker/thumb.png">
+                            </a>
+</div></div>            </div>
+        </div> -->
+        <div class="footer">
             <div class="container">
                 <div class="row">
-                    <div class="col-lg-6">
-                        <div class="text-container">
-                            <h1><br><br><br><br><br><br>Minecraft Bedrock<br> <span id="js-rotating">MAPS, SKINS, ADDONS</span></h1>
+                    <div class="col-md-4">
+                        <div class="footer-col">
+                            <h4>Donate</h4>
+                            <a class="nodecor" href="https://paypal.me/zahf22" target="_blank">
+                                <img class="round-icon" src="images/icons/paypal-brands.svg">
+                            </a> 
+                            <p>Support us by donating</p>
                         </div>
+                    </div> <!-- end of col -->
+                    <div class="col-md-4">
+                        <div class="footer-col middle">
+                            <h4>Important Links</h4>
+                            <ul class="list-unstyled li-space-lg">
+                                <a class="nodecor" href="https://discord.gg/DjVgZC3" target="_blank">
+                                    <img class="round-icon" src="images/icons/discord-brands.svg">
+                                </a> 
+                                <li class="media">
+                                    <div class="media-body">Our partner <a class="turquoise" href="https://discord.gg/DjVgZC3">TEAM ATLAS</a></div>
+                                </li>
+                                <li class="media">
+                                    <div class="media-body">Read our <a class="turquoise" href="https://dragon-force-studio.com/privacy.html">Privacy Policy</a></div>
+                                </li>
+                            </ul>
+                        </div>
+                    </div> <!-- end of col -->
+                    <div class="col-md-4">
+                        <div class="footer-col last">
+                            <h4>Social Media</h4>
+                            <a class="nodecor" href="https://facebook.com/zahfgaming" target="_blank">
+                                <img class="round-icon" src="images/icons/facebook-square-brands.svg">
+                            </a> 
+                            <a class="nodecor" href="https://twitter.com/ck_zahf22?s=09" target="_blank">
+                                <img class="round-icon" src="images/icons/twitter-square-brands.svg">
+                            </a> 
+                            <a class="nodecor" href="https://www.youtube.com/c/zahfgaming" target="_blank">
+                                <img class="round-icon" src="images/icons/youtube-brands.svg">
+                            </a> 
+                            <a class="nodecor" href="https://discord.gg/n2Bxdwk" target="_blank">
+                                <img class="round-icon" src="images/icons/discord-brands.svg">
+                            </a> 
+                        </div> 
                     </div> <!-- end of col -->
                 </div> <!-- end of row -->
             </div> <!-- end of container -->
-        </div> <!-- end of header-content -->
-    </header> <!-- end of header -->
-    <!-- end of header -->
-	
-	<!-- Members -->
-    <div id="members" class="slider-1">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12"> 
-                    <div class="p-heading p-large">
-                        <h2>DFS MEMBERS</h2>
-                    </div>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-lg-12">
-                    <!-- Card Slider -->
-                    <div class="slider-container">
-                        <div class="swiper-container card-slider">
-                            <div class="swiper-wrapper">
-                                
-                                <!-- Slide -->
-                                <div class="swiper-slide">
-                                    <div class="card">
-                                        <img class="card-image" src="images/members/brexit.jpg" alt="alternative">
-                                        <div class="card-body">
-                                            <p class="testimonial-text">A bossy teenager who makes models,works out,occasionally spars when they have the chance, and watches anime.</p>
-                                            <p class="testimonial-author"><a class="turquoise" href="https://twitter.com/Brexit_Box?s=09">Brexit_Box</a> - Model Maker</p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <!-- end of slide -->
-                                
-                                <!-- Slide -->
-                                <div class="swiper-slide">
-                                    <div class="card">
-                                        <img class="card-image" src="images/members/Code_Error.jpg" alt="alternative">
-                                        <div class="card-body">
-                                            <p class="testimonial-text">A 15 year old who enjoys creating fantasy models and story writing. Xbox gamer tag “killen V”.</p>
-                                            <p class="testimonial-author">Code_Error - Model Maker</p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <!-- end of slide -->
-                                
-                                <!-- Slide -->
-                                <div class="swiper-slide">
-                                    <div class="card">
-                                        <img class="card-image" src="images/members/JustinMN.jpg" alt="alternative">
-                                        <div class="card-body">
-                                            <p class="testimonial-text">A 15 year-old guy who loves art of any sort.</p>
-                                            <p class="testimonial-author">JustinMN - Pixel Artist</p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <!-- end of slide -->
-                                
-                                <!-- Slide -->
-                                <div class="swiper-slide">
-                                    <div class="card">
-                                        <img class="card-image" src="images/members/foxfocus.png" alt="alternative">
-                                        <div class="card-body">
-                                            <p class="testimonial-text">A 14 year old modeler, She draws, do creative writing, yoga, and comic reading.</p>
-                                            <p class="testimonial-author"><a class="turquoise" href="https://twitter.com/FoxFocus5">FoxFocus</a> - Model Maker</p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <!-- end of slide -->
-
-                                <!-- Slide -->
-                                <div class="swiper-slide">
-                                    <div class="card">
-                                        <img class="card-image" src="images/members/demigods.png" alt="alternative">
-                                        <div class="card-body">
-                                            <p class="testimonial-text">An artist with many dreams.</p>
-                                            <p class="testimonial-author"><a class="turquoise" href="#">XDemigodsX</a> - Model Maker</p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <!-- end of slide -->
-                                
-                                <!-- Slide -->
-                                <div class="swiper-slide">
-                                    <div class="card">
-                                        <img class="card-image" src="images/members/JustinDaNub.jpg" alt="alternative">
-                                        <div class="card-body">
-                                            <p class="testimonial-text">A simple boy who loves texturing,modeling and drawing.</p>
-                                            <p class="testimonial-author"><a class="turquoise" href="https://twitter.com/justinedanub">JustineDaNub</a> - Model Maker</p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <!-- end of slide -->
-                                
-                                <!-- Slide -->
-                                <div class="swiper-slide">
-                                    <div class="card">
-                                        <img class="card-image" src="images/members/ripper.jpeg" alt="alternative">
-                                        <div class="card-body">
-                                            <p class="testimonial-text">A 14 years old teenager who loves making models and texture. Good at textures and models i love drawing.</p>
-                                            <p class="testimonial-author"><a class="turquoise" href="https://twitter.com/Legendaryrippe1?s=09">Legendaryʀɨքքɛʀ123456789</a> - Model Maker</p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <!-- end of slide -->
-                            </div> <!-- end of swiper-wrapper -->
-        
-                            <!-- Add Arrows -->
-                            <div class="swiper-button-next"></div>
-                            <div class="swiper-button-prev"></div>
-                            <!-- end of add arrows -->
-                        </div> <!-- end of swiper-container -->
-                    </div> <!-- end of slider-container -->
-                    <!-- end of card slider -->
-                </div> <!-- end of col -->
-            </div> <!-- end of row -->
-        </div> <!-- end of container -->
-    </div> <!-- end of slider-1 -->
-    <!-- end of Members -->
-	
-	<!-- About -->
-    <div id="about" class="tabs">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12">
-                    <div class="p-heading p-large">
-                        <h2>DRAGON FORCE STUDIO</h2>
-                    </div>
-                </div> <!-- end of col -->
-            </div> <!-- end of row -->
-            <div class="row">
-
-                <!-- Tabs Links -->
-                <ul class="nav nav-tabs" id="lenoTabs" role="tablist">
-                    <li class="nav-item">
-                        <a class="nav-link active" id="nav-tab-1" data-toggle="tab" href="#tab-1" role="tab" aria-controls="tab-1" aria-selected="false">MISSION</a>
-                    </li><i class="fas fa-square"></i>
-                    <li class="nav-item">
-                        <a class="nav-link" id="nav-tab-2" data-toggle="tab" href="#tab-2" role="tab" aria-controls="tab-2" aria-selected="true">ABOUT</a>
-                    </li><i class="fas fa-square"></i>
-                    <li class="nav-item">
-                        <a class="nav-link" id="nav-tab-3" data-toggle="tab" href="#tab-3" role="tab" aria-controls="tab-3" aria-selected="false">VISION</a>
-                    </li>
-                </ul>
-                <!-- end of tabs links -->
-
-                <!-- Tabs Content-->
-                <div class="tab-content" id="lenoTabsContent">
-                    
-                    <!-- Tab -->
-                    <div class="tab-pane fade show active" id="tab-1" role="tabpanel" aria-labelledby="tab-1">
-                        <div class="container">
-                            <div class="row">
-                                
-                                <!-- Icon Cards Pane -->
-                                <div class="col-lg-4">
-     Our mission is to create quality and unique addons, texture packs, skins,
-<br>and maps to provide to Minecraft Bedrock players.
-<br>As a team we aim to expand the potential of Minecraft to make it a more enjoyable experience. 
-
-                                </div>
-                                <!-- end of icon cards pane -->
-                                
-                                
-
-                            </div> <!-- end of row -->
-                        </div> <!-- end of container -->
-                    </div> <!-- end of tab-pane -->
-                    <!-- end of tab -->
-
-                    <!-- Tab -->
-                    <div class="tab-pane fade" id="tab-2" role="tabpanel" aria-labelledby="tab-2">
-                        <div class="container">
-                            <div class="row">
-                                
-                                <!-- Icon Cards Pane -->
-                                <div class="col-lg-4">
-                                    This is the official Dragon Force Studio website for downloadable content for Minecraft: Bedrock Edition (previously known as Pocket Edition).<br>
-                                    Here you will find high quality add-ons, maps, skins and everything is free to download.<br><br>(Website started on March 30, 2020.)<br><br>
-                                    
-                                    Dragon Force Studio are in no affiliation with Mojang Studio.<br>
-                                    We just love Minecraft and want to offer Bedrock players some great content(add-ons, maps, skins)<br> to make the game more exciting and more enjoyable to play!
-                                </div>
-                                <!-- end of icon cards pane -->
-								
-                            </div> <!-- end of row -->
-                        </div> <!-- end of container -->
-                    </div><!-- end of tab-pane -->
-
-                    <!-- Tab -->
-                    <div class="tab-pane fade" id="tab-3" role="tabpanel" aria-labelledby="tab-3">
-                        <div class="container">
-                            <div class="row">
-                                
-                                <!-- Icon Cards Pane -->
-                                <div class="col-lg-4">
-                                         Our vision is to expand Dragon Force Studio and become widely known among add-on creators and users on Minecraft Bedrock.
-<br>We aim to achieve this goal by working together as a team and pouring dedication and passion into our projects. 
-                                </div>
-                                <!-- end of icon cards pane -->
-                            </div> <!-- end of row -->
-                        </div> <!-- end of container -->
-                    </div><!-- end of tab-pane -->
-                    <!-- end of tab -->
-
-
-                </div> <!-- end of tab-content -->
-                <!-- end of tabs content -->
-
-            </div> <!-- end of row --> 
-        </div> <!-- end of container --> 
-    </div> <!-- end of tabs -->
-    <!-- end of About -->
-	
-	<!-- Downloads -->
-	
-	<div id="downloads" class="basic-3">
-	<div class="container">
-		<div class="row">
-			<div class="col-lg-12">
-				<div class="p-heading p-large">
-					<h2>DOWNLOADS</h2>
-				</div>
-			</div>
-		</div>
-		
-		<!-- Expansive Fantasy -->
-			<div id="Ef" class="basic-3">
-					<div class="container"><div class="row">
-						<div class="col-lg-6">
-							<img class="img-fluid" src="images/addons/ef_cover.png" alt="alternative">
-						</div>
-						<div class="col-lg-6">
-							<div class="p-heading p-large">
-								<h1>Expansive Fantasy</h1>
-							</div>
-							
-	
-    <div class="basic-3">
-        <div class="container">
-	<div class="col-lg-6">
-	<div id="accordion">
-	    <div class="card">
-	        <div class="card-header" id="headingOne">
-	            <h5 class="mb-0">
-	                <button class="btn btn-link" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">Collapsible Group Item #1 </button>
-	           </h5>
-	       </div>
-	       <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordion">
-                        <div class="text-container">
-	               <div class="card-body">
-	                   Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
-	               </div>
-	           </div>
-	       </div>
-	   </div>
-	   <div class="card">
-	   
-	   <div class="card-header" id="headingTwo">
-	       <h5 class="mb-0">
-	           <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo"> Collapsible Group Item #2 </button>
-	       </h5>
-	   </div>
-	   <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
-	       <div class="card-body">
-	           Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
-	       </div>
-	   </div>
-	  </div>
-	  <div class="card">
-	      <div class="card-header" id="headingThree">
-	          <h5 class="mb-0">
-	              <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree"> Collapsible Group Item #3 </button>
-	          </h5>
-	       </div>
-	   <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
-	       <div class="card-body">
-	           Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
-	       </div>
-	   </div>
-	</div>
-	</div>
-	</div>
-	</div>
-	</div>
-							<table>
-								<tr>
-									<td class="icon-cell">
-										<i class="fas fa-square"></i>
-									</td>
-									<td>Creator:</td>
-									<td> Dragon Force Studio</td>
-								</tr>
-								<tr>
-									<td class="icon-cell">
-										<i class="fas fa-square"></i>
-									</td>
-									<td>Version:</td>
-									<td> 1.16</td>
-								</tr>
-							</table>
-							<a class="btn-solid-reg popup-with-move-anim" href="#EF">Details</a>
-						</div>
-					</div></div>
-				
-			</div>
-		
-		
-		<!-- Ultimate Fantasy Skin Pack -->
-			<div id="details" class="basic-3">
-					<div class="container"><div class="row">
-						<div class="col-lg-6">
-							<img class="img-fluid" src="images/skins/twiggy_skin_pack_cover.png" alt="alternative">
-						</div>
-						<div class="col-lg-6">
-							<div class="p-heading p-large">
-								<h1>Ultimate Fantasy Skin Pack</h1>
-							</div>
-							
-	
-    <div class="basic-3">
-        <div class="container">
-	<div class="col-lg-6">
-	<div id="accordion">
-	    <div class="card">
-	        <div class="card-header" id="headingFour">
-	            <h5 class="mb-0">
-	                <button class="btn btn-link" data-toggle="collapse" data-target="#collapseFour" aria-expanded="true" aria-controls="collapseFour">Collapsible Group Item #1 </button>
-	           </h5>
-	       </div>
-	       <div id="collapseFour" class="collapse show" aria-labelledby="headingFour" data-parent="#accordion">
-                        <div class="text-container">
-	               <div class="card-body">
-	                   Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
-	               </div>
-	           </div>
-	       </div>
-	   </div>
-	   <div class="card">
-	   
-	   <div class="card-header" id="headingFive">
-	       <h5 class="mb-0">
-	           <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive"> Collapsible Group Item #2 </button>
-	       </h5>
-	   </div>
-	   <div id="collapseFive" class="collapse" aria-labelledby="headingFive" data-parent="#accordion">
-	       <div class="card-body">
-	           Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
-	       </div>
-	   </div>
-	  </div>
-	  <div class="card">
-	      <div class="card-header" id="headingSix">
-	          <h5 class="mb-0">
-	              <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix"> Collapsible Group Item #3 </button>
-	          </h5>
-	       </div>
-	   <div id="collapseSix" class="collapse" aria-labelledby="headingSix" data-parent="#accordion">
-	       <div class="card-body">
-	           Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
-	       </div>
-	   </div>
-	</div>
-	</div>
-	</div>
-	</div>
-	</div>
-							<table>
-								<tr>
-									<td class="icon-cell">
-										<i class="fas fa-square"></i>
-									</td>
-									<td>Creator:</td>
-									<td> Twiggy</td>
-								</tr>
-								<tr>
-									<td class="icon-cell">
-										<i class="fas fa-square"></i>
-									</td>
-									<td>Version:</td>
-									<td> 1.14 - 1.15 - 1.16 - beta</td>
-								</tr>
-							</table>
-							<a class="btn-solid-reg popup-with-move-anim" href="#UFSP">Details</a>
-						</div>
-					</div></div>
-				
-			</div>
-		
-		
-		<!-- Expansive Fantasy Detail -->
-		<div id="EF" class="lightbox-basic zoom-anim-dialog mfp-hide">
-			<div class="row">
-				<button title="Close (Esc)" type="button" class="mfp-close x-button">×</button>
-				<div class="col-lg-6">
-					<img class="img-fluid" src="images/addons/ef_cover.png" alt="alternative">
-					<hr>
-					<div class="p-heading p-large">
-						<h1>Expansive Fantasy</h1>
-					</div>
-					<h4>Description:</h4>
-					<p class="testimonial-text">Want your own fire breathing dragon then this is the addon for you soar through the air and go wherever it will take you. Take on any enemy that comes your way. Become one with your dragon and show everyone that the bond you share with your dragon is unmatched . Do you have what it takes to become a dragon master?</p>
-					<hr>
-					<table>
-						<tr>
-							<td class="icon-cell">
-								<i class="fas fa-square"></i>
-							</td>
-							<td> Creator:</td>
-							<td> Dragon Force Studio</td>
-						</tr>
-						<tr>
-							<td class="icon-cell">
-								<i class="fas fa-square"></i>
-							</td>
-							<td> Version:</td>
-							<td> 1.16</td>
-						</tr>
-					</table>
-					<a class="btn-solid-reg" href="http://raboninco.com/1VIXk">DOWNLOAD</a>
-				</div>
-			</div>
-		</div>
-		
-		<!-- Ultimate Fantasy Skin Pack Detail -->
-		<div id="UFSP" class="lightbox-basic zoom-anim-dialog mfp-hide"> 
-			<div class="row">
-				<button title="Close (Esc)" type="button" class="mfp-close x-button">×</button>
-				<div class="col-lg-6">
-					<img class="img-fluid" src="images/skins/twiggy_skin_pack_cover.png" alt="alternative">
-					<hr>
-					<div class="p-heading p-large">
-						<h1>Ultimate Fantasy Skin Pack</h1>
-					</div>
-					<h4>Description:</h4>
-					<p class="testimonial-text">Ultimate Fantasy brings five new awesome skins! Become a mystic Blue Sorcerer. Or show off your inner wickedness with the Dark Sorcerer. From the divine Angel Girls enlightenment. To Hell Boys fiery endure. And Wind Girls otherworldly omen. This skin pack adds five amazing skins. Impress your friends with the new Ultimate Fantasy skin pack!</p>
-					<hr>
-					<table>
-						<tr>
-							<td class="icon-cell">
-								<i class="fas fa-square"></i>
-							</td>
-							<td> Creator:</td>
-							<td> Twiggy</td>
-						</tr>
-						<tr>
-							<td class="icon-cell">
-								<i class="fas fa-square"></i>
-							</td>
-							<td> Version:</td>
-							<td> 1.14 - 1.15 - 1.16 - beta</td>
-						</tr>
-					</table>
-					<a class="btn-solid-reg" href="http://raboninco.com/9AFO">DOWNLOAD</a>
-				</div>
-			</div>
-		</div>
-	</div>
-	</div>
-
-	<!-- Footer -->
-    <div class="footer">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-4">
-                    <div class="footer-col">
-						<h4>Donate</h4>
-						<span class="fa-stack">
-							<a href="https://paypal.me/zahf22">
-								<i class="fas fa-circle fa-stack-2x"></i>
-								<i class="fab fa-paypal fa-stack-1x"></i>
-							</a>
-						</span>
-						<p>Support us by donating</p>
-					</div>
-				</div> <!-- end of col -->
-				<div class="col-md-4">
-					<div class="footer-col middle">
-						<h4>Important Links</h4>
-						<ul class="list-unstyled li-space-lg">
-							<li class="media">
-								<i class="fas fa-square"></i>
-								<div class="media-body">Our partner <a class="turquoise" href="https://discord.gg/DjVgZC3">TEAM ATLAS</a></div>
-							</li>
-							<li class="media">
-								<i class="fas fa-square"></i>
-								<div class="media-body">Read our <a class="turquoise" href="https://dragon-force-studio.com/privacy.html">Privacy Policy</a></div>
-							</li>
-						</ul>
-					</div>
-				</div> <!-- end of col -->
-                <div class="col-md-4">
-                    <div class="footer-col last">
-                        <h4>Social Media</h4>
-                        <span class="fa-stack">
-                            <a href="https://facebook.com/zahfgaming">
-                                <i class="fas fa-circle fa-stack-2x"></i>
-                                <i class="fab fa-facebook-f fa-stack-1x"></i>
-                            </a>
-                        </span>
-                        <span class="fa-stack">
-                            <a href="https://twitter.com/ck_zahf22?s=09">
-                                <i class="fas fa-circle fa-stack-2x"></i>
-                                <i class="fab fa-twitter fa-stack-1x"></i>
-                            </a>
-                        </span>
-                        <span class="fa-stack">
-                            <a href="https://www.youtube.com/c/zahfgaming">
-                                <i class="fas fa-circle fa-stack-2x"></i>
-                                <i class="fab fa-youtube fa-stack-1x"></i>
-                            </a>
-                        </span>
-                        <span class="fa-stack">
-                            <a href="https://discord.gg/n2Bxdwk">
-                                <i class="fas fa-circle fa-stack-2x"></i>
-                                <i class="fab fa-discord fa-stack-1x"></i>
-                            </a>
-                        </span>
-                    </div> 
-                </div> <!-- end of col -->
-            </div> <!-- end of row -->
-        </div> <!-- end of container -->
-    </div> <!-- end of footer -->  
-    <!-- end of footer -->
-
-
-    <!-- Copyright -->
-    <div class="copyright">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12">
-                    <p class="p-small">Copyright © 2020 Dragon Force Studio </p>
-                </div> <!-- end of col -->
-            </div> <!-- enf of row -->
-        </div> <!-- end of container -->
-    </div> <!-- end of copyright --> 
-    <!-- end of copyright -->
-    
-    	
-    <!-- Scripts -->
-    <script src="js/jquery.min.js"></script> <!-- jQuery for Bootstrap's JavaScript plugins -->
-    <script src="js/popper.min.js"></script> <!-- Popper tooltip library for Bootstrap -->
-    <script src="js/bootstrap.min.js"></script> <!-- Bootstrap framework -->
-    <script src="js/jquery.easing.min.js"></script> <!-- jQuery Easing for smooth scrolling between anchors -->
-    <script src="js/swiper.min.js"></script> <!-- Swiper for image and text sliders -->
-    <script src="js/jquery.magnific-popup.js"></script> <!-- Magnific Popup for lightboxes -->
-    <script src="js/morphext.min.js"></script> <!-- Morphtext rotating text in the header -->
-    <script src="js/validator.min.js"></script> <!-- Validator.js - Bootstrap plugin that validates forms -->
-    <script src="js/scripts.js"></script> <!-- Custom scripts -->
-	
-</body>
+        </div>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/rellax/1.12.1/rellax.min.js"></script>
+        <script>
+            var rellax = new Rellax('.rellax');
+        </script>
+    </body>
 </html>
