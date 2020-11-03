@@ -26,6 +26,17 @@ body {
 }
 /* For Mobile */
 @media screen and (max-width: 720px) {
+    .profilepic img{
+    min-width: 128px;
+    min-height: 128px;
+    max-width: 128px;
+    max-height: 128px;
+    object-fit: cover;
+
+    margin: auto;
+    border-radius: 100%;
+    background-image: linear-gradient(to bottom right, black, black,rgb(49, 49, 49));
+}
 	.navbar {
 		color: rgb(6, 106, 117);
 		/* text-transform: uppercase; */
@@ -786,10 +797,6 @@ button:active{
     text-align: center;
 }
 .profilepic img{
-    min-width: 256px;
-    min-height: 256px;
-    max-width: 256px;
-    max-height: 256px;
     object-fit: cover;
 
     margin: auto;

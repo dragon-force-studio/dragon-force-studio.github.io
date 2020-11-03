@@ -1,350 +1,358 @@
 <!DOCTYPE html>
 <html>
-    <head>
-        <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
-        <link rel="stylesheet" href="index.css">
-        <!-- <link type="text/css" rel="stylesheet" href="navbar.css"> -->
-        <!-- <link rel="stylesheet" href="nav.css"> -->
-        <link rel="icon" type="image/png" href="images/logo_dfs.png">
-        <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@600&display=swap" rel="stylesheet">
-        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
-        <script data-ad-client="ca-pub-9638544368327690" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-        <link rel="stylesheet" href="css/DragonForcE.ttf">
-        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-        <link href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@700&display=swap" rel="stylesheet">
-        <title>Dragon Force Studio</title>
-    
-	<script data-ad-client="ca-pub-4398497222466431" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-        <!-- OG Meta Tags to improve the way the post looks when you share the page on LinkedIn, Facebook, Google+ -->
-        <meta property="og:site_name" content="DRAGON FORCE STUDIO" /> <!-- website name -->
-        <meta property="og:site" content="https://dragon-force-studio.codragon-force-studio.com" /> <!-- website link -->
-        <meta property="og:title" content="DRAGON FORCE STUDIO"/> <!-- title shown in the actual shared post -->
-        <meta property="og:description" content="We are Dragon Force Studio,we develop quality addons, maps, texture packs, and skins for minecraft bedrock" /> <!-- description shown in the actual shared post -->
-        <meta property="og:image" content="images/dfs.jpg" /> <!-- image link, make sure it's jpg -->
-        <meta property="og:url" content="https://dragon-force-studio.com" /> <!-- where do you want your post to link to -->
-        <meta property="og:type" content="article" />
-
-        <!-- Include this to make the og:image larger -->
-        <meta name="twitter:card" content="summary_large_image">
-        <!-- Menu bar close/open on mobile -->
-        <script>
-                // 
-                // MENU BAR COLLAPSE
-                // 
-                function collapsePanel(self){
-                    if(self.innerText == "X"){
-                        // Close the panel
-                        try{
-                            self.innerText = "...";
-                            document.querySelector(".subnavitems").style.top = "-165px";
-                            // var arr = document.querySelectorAll(".subnavbar>.subnavitems>a");
-                            // arr.forEach(elm => {
-                            //     elm.style.display = "none";
-                            // });
-                        }catch(e){console.log(e)}
-                    }else{
-                        // Open the panel
-                        try{
-                            self.innerText = "X";
-                            //document.querySelector(".subnavitems").stlye.top = "100%";
-                            document.querySelector(".subnavitems").style.top = "0";
-                            // var arr = document.querySelectorAll(".subnavbar>.subnavitems>a");
-                            // arr.forEach(elm => {
-                            //     elm.style.display = "block";
-                            // });
-                        }catch(e){console.log(e)}
-                    }
-                }
-                // Auto hide the menubar on mobile
-                function onWindowResize() {
-                    if(window.screen.width < 720){
-                        try{
-                            var self = document.getElementById("asldkfjhasdfoi");
-                            // self.style.display = "block";
-                            self.innerText = "...";
-                            // var elm = document.querySelectorAll(".subnavbar>a:not(.closebutton)");
-                            // for(var i in elm){
-                            //     elm[i].style.display = "none";
-                            // }
-                        }catch(e){}
-                    }else{
-                        try{
-                            var self = document.getElementById("asldkfjhasdfoi");
-                            // self.style.display = "none";
-                            var elm = document.querySelectorAll(".subnavbar>a:not(.closebutton)");
-                            for(var i in elm){
-                                elm[i].style.display = "block";
-                            }
-                        }catch(e){}
-                    }
-                }
-                
-                window.onresize = onWindowResize;</script>
-    </head>
-    <body onload="onWindowResize();">
-        <script>
-            CSS.paintWorklet.addModule('./bubblePaint.js')
-        </script>
-        <div class="navbar">
-            <!-- <a href="index.html"><img src="images/logo-white.png"></a> -->
-            <div class="cube">
-                <div class="flippety">
-                    <!-- <h1>Dragon Force Studio</h1> -->
-                    <img src="images/logo-white.png" style="max-height: 50px; width:100%; object-fit: scale-down">
-                    <!-- <a href="index.html" class="title">Dragon Force Studio</a> -->
-                </div>
-                <div class="flop">
-                    <h2>Join us on discord</h2>
-                </div>
-            </div>
-        </div>
-
-        <div class="subnavbar">
-            <div class="subnavitems">
-                <a href="/index.html">Home</a>
-                <a href="/subpages/about.html">About</a>
-                <a href="/subpages/apply.html">Apply</a>
-                <a href="/wiki.html">Wiki</a>
-                <a href="/subpages/contact.html">Contact Us</a>
-                <p id="asldkfjhasdfoi" class="closebutton" onclick="collapsePanel(this)">X</p>
-            </div>
-        </div>
-        <div class="separator"></div>
-        <div class="logo rellax" data-rellax-speed="5"></div>
-        <img class="logoimg" src="images\logo-HD.png">
-        <div class="columncontainer">
-            <img src="images/renders/black-dragon.png">
-            <div class="content">
-                <h1>Who are we?</h1>
-                <p>
-                        We are Dragon Force Studio,we develop quality addons, maps, texture packs, and skins for minecraft bedrock.
-                    Our mission is to create quality and 
-                    unique addons, texture packs, skins,
-                    and maps to provide to Minecraft Bedrock players.
-                    <br><br>
-                    As a team we aim to expand
-                    the potential of Minecraft
-                    to make it a more enjoyable experience.</p>
-            </div>
-        </div>
-
-        <div class="columncontainer">
-            <div class="teamskin">
-                <div id="zahf">
-                    <div class="profilepic"><img staticimage src="images/members/zahf.png"></div>
-                </div>
-                <div id="twiggy">
-                    <div class="profilepic"><img staticimage src="images/members/twiggy.png"></div>
-                </div>
-                <div id="foxfocus">
-                    <div class="profilepic"><img staticimage src="images/members/FoxFocus.png"></div>
-                </div>
-                <div id="demi">
-                    <div class="profilepic"><img staticimage src="images/members/demigods.png"></div>
-                </div>
-                <div id="ripper">
-                    <div class="profilepic"><img staticimage src="images/members/LegendaryRipper.png"></div>
-                </div>
-                <div id="hanprogramer">
-                    <div class="profilepic"><img staticimage src="images/members/Hanprogramer.png"></div>
-                </div>
-                <div id="justinMN">
-                    <div class="profilepic"><img staticimage src="images/members/JustinMN.jpg"></div>
-                </div>
-                <div id="code_error">
-                    <div class="profilepic"><img staticimage src="images/members/Code_Error.jpg"></div>
-                </div>
-                <div id="brexit">
-                    <div class="profilepic"><img staticimage src="images/members/brexit.jpg"></div>
-                </div>
-                <div id="hax">
-                    <div class="profilepic"><img staticimage src="images/members/HaxTheCharizard.png"></div>
-                </div>
-            </div>
-            <div class="teamdesc-container">
-                <h1>Meet The team</h1>
-                <div class="teamdesc">
-                    <div id="zahf">
-                        <h2>Zahf - The team leader</h2>
-                        <p>Founder of Dragon-Force-Studio. He leads the development of the team, making sure the content made by the DragonForce is high quality.</p>
-                    </div>
-                    <div id="twiggy">
-                        <h2>TWIGGY - The modeller</h2>
-                        <p>
-                            Modeller and animator of the team. Always wanted to tame and ride a dragon through the vast biomes. I'm still learning more and more , everytime I make a new model I learn something new to take my model to the next level.               
-                        </p>
-                        <br>
-                        <a href="https://m.youtube.com/channel/UCAvNrRs37Gt5b2biu1N7-oQ">YouTube channel</a>
-                        <br>
-                        <a href="https://twitter.com/TWIGGY_1006?s=09">Twitter</a>                    
-                    </div>  
-                    <div id="foxfocus">
-                        <h2>FoxFocus - Team Modeller</h2>
-                        <p>A 14 year old modeler, She draws, do creative writing, yoga, and comic reading.</p>
-                    </div>
-                    <div id="demi">
-                        <h2>Demi - Team Modeller</h2>
-                        <p>A.k.a Demigod. An artist with many dreams.</p>
-                    </div>
-                    <div id="ripper">
-                        <h2>Ripper - Team Modeller</h2>
-                        <p>A 14 years old teenager who loves making models and texture. Good at textures and models i love drawing.</p>
-                    </div>
-                    <div id="hanprogramer">
-                        <h2>Hanprogramer - Web Developer & Renderer</h2>
-                        <p>A 17 y/o. Loves making games and designing apps. Also have some skills in web development and Blender rendering.</p>
-                    </div>
-                    <div id="justinMN">
-                        <h2>JustinMN - Pixel Artist</h2>
-                        <p>A 15 year-old guy who loves art of any sort.</p>
-                    </div>
-                    <div id="code_error">
-                        <h2>Core_Error - Team Modeller</h2>
-                        <p>A 15 year old who enjoys creating fantasy models and story writing. Xbox gamer tag “killen V”.</p>
-                    </div>
-                    <div id="brexit">
-                        <h2>Brexit_Box - Team Modeller</h2>
-                        <p>A bossy teenager who makes models,works out,occasionally spars when they have the chance, and watches anime.</p>
-                    </div>
-                    <div id="hax">
-                        <h2>HaxTheCharizard - Team Coder</h2>
-                        <p>Minecraft Bedrock Edition modder, creator of the Tinker's Legacy mod.</p>
-                    </div>
-                </div>
-                
-                <div class="teamprogress"></div>
-            </div>
-            <script>
-                // Profile cycler
-                progress = 0;
-                profindex = 1;
-                profiles = ["zahf", "twiggy","foxfocus", "demi", "ripper","hanprogramer","justinMN","code_error","brexit","hax"];
-                profile = profiles[profindex];
-                root = document.documentElement;
-                setInterval(()=>{
-                    progress += 1;
-                    root.style.setProperty('--team-progress', String(progress) + "%");
-                    if(progress > 100){
-                        progress = 0;
-                        profindex += 1;
-                        profile = profiles[profindex % profiles.length];
-                        refreshActiveProfile();
-                    }
-                }, 60);
-
-                function refreshActiveProfile(){
-                    // Sets the current profile displayed
-                    document.querySelectorAll(".teamskin > div").forEach((val) => {val.style.display = "none";val.classList.remove("animatedfadein");});
-                    document.querySelector(".teamskin > #" + profile).style.display = "block";
-                    document.querySelector(".teamskin > #" + profile).classList.add("animatedfadein");
-
-                    document.querySelectorAll(".teamdesc > div").forEach((val) => {val.style.height = "0";val.classList.remove("animatedfadein");});
-                    document.querySelector(".teamdesc > #" + profile).style.height = "100%";
-                    document.querySelector(".teamdesc > #" + profile).classList.add("animatedfadein");
-                }
-                refreshActiveProfile();
-            </script>
-        </div>
-        <div class="GENERATED"></div>
-        <div class="columncontainer">
-            <img src="posts/addons/expansive-fantasy/thumb.png">
-            <div class="content">
-                <h1>Expansive Fantasy</h1>
-                <p>
-                    Want your own fire breathing dragon then this is the 
-                    addon for you soar through the air and go wherever 
-                    it will take you. Take on any enemy that comes your way. 
-                    Become one with your dragon and show everyone that the 
-                    bond you share with your dragon is unmatched . 
-                    Do you have what it takes to become a dragon master?
-                </p>
-                <a style="text-align: center" href="posts/addons/expansive-fantasy/post.html"><button>View Addon</button></a>
-            </div>
-        </div>
-        <div class="columncontainer">
-            <img src="posts/addons/ultimate-fantasy-skinpack/thumb.png">
-            <div class="content">
-                <h1>Ultimate Fantasy Skin Pack</h1>
-                <p>
-                    Ultimate Fantasy brings five new awesome skins! 
-                    Become a mystic Blue Sorcerer. 
-                    Or show off your inner wickedness with the Dark Sorcerer. 
-                    From the divine Angle Girls enlightenment. 
-                    To Hell Boys fiery endure. 
-                    And Wind Girls otherworldly omen. 
-                    This skin pack adds five amazing skins. 
-                    Impress your friends with the new Ultimate Fantasy skin pack!
-                </p>
-                <a style="text-align: center" href="posts/addons/ultimate-fantasy-skinpack/post.html"><button>View addon</button></a>
-            </div>
-        </div>
-        <div class="columncontainer">
-            <img src="images/renders/social.png">
-            <div class="content" style="flex-grow: 1">
-                <h1 id="contact_us">Contact us</h1>
-                <a target="_blank" href="https://discord.gg/n2Bxdwk" style="text-align: center"><button class="discordbtn">Join Discord</button></a>
-                <a target="_blank" href="https://www.youtube.com/c/zahfgaming" style="text-align: center"><button>Youtube</button></a>
-                <a target="_blank" href="https://twitter.com/ck_zahf22?s=09" style="text-align: center"><button class="twitterbtn">Twitter</button></a>
-                <a target="_blank" href="https://facebook.com/zahfgaming" style="text-align: center"><button class="facebookbutton">Facebook</button></a>
-            </div>
-        </div>
-        <!-- <div class="maindivider" style="position: relative">
-            <div class="content">
-                <div class="GENERATED"></div>
-            </div>
-        </div> -->
-        <div class="footer">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-4">
-                        <div class="footer-col">
-                            <h4>Donate</h4>
-                            <a class="nodecor" href="https://paypal.me/zahf22" target="_blank">
-                                <img class="round-icon" src="images/icons/paypal-brands.svg">
-                            </a> 
-                            <p>Support us by donating</p>
-                        </div>
-                    </div> <!-- end of col -->
-                    <div class="col-md-4">
-                        <div class="footer-col middle">
-                            <h4>Important Links</h4>
-                            <ul class="list-unstyled li-space-lg">
-                                <a class="nodecor" href="https://discord.gg/DjVgZC3" target="_blank">
-                                    <img class="round-icon" src="images/icons/discord-brands.svg">
-                                </a> 
-                                <li class="media">
-                                    <div class="media-body">Our partner <a class="turquoise" href="https://discord.gg/DjVgZC3">TEAM ATLAS</a></div>
-                                </li>
-                                <li class="media">
-                                    <div class="media-body">Read our <a class="turquoise" href="https://dragon-force-studio.com/privacy.html">Privacy Policy</a></div>
-                                </li>
-                            </ul>
-                        </div>
-                    </div> <!-- end of col -->
-                    <div class="col-md-4">
-                        <div class="footer-col last">
-                            <h4>Social Media</h4>
-                            <a class="nodecor" href="https://facebook.com/zahfgaming" target="_blank">
-                                <img class="round-icon" src="images/icons/facebook-square-brands.svg">
-                            </a> 
-                            <a class="nodecor" href="https://twitter.com/ck_zahf22?s=09" target="_blank">
-                                <img class="round-icon" src="images/icons/twitter-square-brands.svg">
-                            </a> 
-                            <a class="nodecor" href="https://www.youtube.com/c/zahfgaming" target="_blank">
-                                <img class="round-icon" src="images/icons/youtube-brands.svg">
-                            </a> 
-                            <a class="nodecor" href="https://discord.gg/n2Bxdwk" target="_blank">
-                                <img class="round-icon" src="images/icons/discord-brands.svg">
-                            </a> 
-                        </div> 
-                    </div> <!-- end of col -->
-                </div> <!-- end of row -->
-            </div> <!-- end of container -->
-        </div>
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/rellax/1.12.1/rellax.min.js"></script>
-        <script>
-            var rellax = new Rellax('.rellax');
-        </script>
-    </body>
+	<head>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<link rel="stylesheet" href="index.css">
+		<!-- <link type="text/css" rel="stylesheet" href="navbar.css"> -->
+		<!-- <link rel="stylesheet" href="nav.css"> -->
+		<link rel="icon" type="image/png" href="images/logo_dfs.png">
+		<link href="https://fonts.googleapis.com/css2?family=Oswald:wght@600&display=swap" rel="stylesheet">
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+		<script data-ad-client="ca-pub-9638544368327690" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+		<link rel="stylesheet" href="css/DragonForcE.ttf">
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+		<link href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@700&display=swap" rel="stylesheet">
+		<title>Dragon Force Studio</title>
+		<script data-ad-client="ca-pub-4398497222466431" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+		<!-- OG Meta Tags to improve the way the post looks when you share the page on LinkedIn, Facebook, Google+ -->
+		<meta property="og:site_name" content="DRAGON FORCE STUDIO" />
+		<!-- website name -->
+		<meta property="og:site" content="https://dragon-force-studio.codragon-force-studio.com" />
+		<!-- website link -->
+		<meta property="og:title" content="DRAGON FORCE STUDIO"/>
+		<!-- title shown in the actual shared post -->
+		<meta property="og:description" content="We are Dragon Force Studio,we develop quality addons, maps, texture packs, and skins for minecraft bedrock" />
+		<!-- description shown in the actual shared post -->
+		<meta property="og:image" content="images/dfs.jpg" />
+		<!-- image link, make sure it's jpg -->
+		<meta property="og:url" content="https://dragon-force-studio.com" />
+		<!-- where do you want your post to link to -->
+		<meta property="og:type" content="article" />
+		<!-- Include this to make the og:image larger -->
+		<meta name="twitter:card" content="summary_large_image">
+		<!-- Menu bar close/open on mobile -->
+		<script>
+			//
+			// MENU BAR COLLAPSE
+			//
+			function collapsePanel(self){
+			if(self.innerText == "X"){
+			// Close the panel
+			try{
+			self.innerText = "...";
+			document.querySelector(".subnavitems").style.top = "-165px";
+			// var arr = document.querySelectorAll(".subnavbar>.subnavitems>a");
+			// arr.forEach(elm => {
+			// elm.style.display = "none";
+			// });
+			}catch(e){console.log(e)}
+			}else{
+			// Open the panel
+			try{
+			self.innerText = "X";
+			//document.querySelector(".subnavitems").stlye.top = "100%";
+			document.querySelector(".subnavitems").style.top = "0";
+			// var arr = document.querySelectorAll(".subnavbar>.subnavitems>a");
+			// arr.forEach(elm => {
+			// elm.style.display = "block";
+			// });
+			}catch(e){console.log(e)}
+			}
+			}
+			// Auto hide the menubar on mobile
+			function onWindowResize() {
+			if(window.screen.width < 720){
+			try{
+			var self = document.getElementById("asldkfjhasdfoi");
+			// self.style.display = "block";
+			self.innerText = "...";
+			// var elm = document.querySelectorAll(".subnavbar>a:not(.closebutton)");
+			// for(var i in elm){
+			// elm[i].style.display = "none";
+			// }
+			}catch(e){}
+			}else{
+			try{
+			var self = document.getElementById("asldkfjhasdfoi");
+			// self.style.display = "none";
+			var elm = document.querySelectorAll(".subnavbar>a:not(.closebutton)");
+			for(var i in elm){
+			elm[i].style.display = "block";
+			}
+			}catch(e){}
+			}
+			}
+			
+			window.onresize = onWindowResize;
+		</script>
+	</head>
+	<body onload="onWindowResize();">
+		<script>
+			CSS.paintWorklet.addModule('./bubblePaint.js')
+		</script>
+		<div class="navbar">
+			<!-- <a href="index.html"><img src="images/logo-white.png"></a> -->
+			<div class="cube">
+				<div class="flippety">
+					<!-- <h1>Dragon Force Studio</h1> -->
+					<img src="images/logo-white.png" style="max-height: 50px; width:100%; object-fit: scale-down">
+					<!-- <a href="index.html" class="title">Dragon Force Studio</a> -->
+				</div>
+				<div class="flop">
+					<h2>Join us on discord</h2>
+				</div>
+			</div>
+		</div>
+		<div class="subnavbar">
+			<div class="subnavitems">
+				<a href="/index.html">Home</a>
+				<a href="/subpages/about.html">About</a>
+				<a href="/subpages/apply.html">Apply</a>
+				<a href="/wiki.html">Wiki</a>
+				<a href="/subpages/contact.html">Contact Us</a>
+				<p id="asldkfjhasdfoi" class="closebutton" onclick="collapsePanel(this)">X</p>
+			</div>
+		</div>
+		<div class="separator"></div>
+		<div class="logo rellax" data-rellax-speed="5"></div>
+		<img class="logoimg" src="images\logo-HD.png">
+		<div class="columncontainer">
+			<img src="images/renders/black-dragon.png">
+			<div class="content">
+				<h1>Who are we?</h1>
+				<p>
+					We are Dragon Force Studio,we develop quality addons, maps, texture packs, and skins for minecraft bedrock.
+					Our mission is to create quality and
+					unique addons, texture packs, skins,
+					and maps to provide to Minecraft Bedrock players.
+					<br><br>
+					As a team we aim to expand
+					the potential of Minecraft
+					to make it a more enjoyable experience.
+				</p>
+			</div>
+		</div>
+		<div class="columncontainer">
+			<div class="teamskin">
+				<div id="zahf">
+					<div class="profilepic"><img staticimage src="images/members/zahf.png"></div>
+				</div>
+				<div id="twiggy">
+					<div class="profilepic"><img staticimage src="images/members/twiggy.png"></div>
+				</div>
+				<div id="foxfocus">
+					<div class="profilepic"><img staticimage src="images/members/FoxFocus.png"></div>
+				</div>
+				<div id="demi">
+					<div class="profilepic"><img staticimage src="images/members/demigods.png"></div>
+				</div>
+				<div id="ripper">
+					<div class="profilepic"><img staticimage src="images/members/LegendaryRipper.png"></div>
+				</div>
+				<div id="hanprogramer">
+					<div class="profilepic"><img staticimage src="images/members/Hanprogramer.png"></div>
+				</div>
+				<div id="justinMN">
+					<div class="profilepic"><img staticimage src="images/members/JustinMN.jpg"></div>
+				</div>
+				<div id="code_error">
+					<div class="profilepic"><img staticimage src="images/members/Code_Error.jpg"></div>
+				</div>
+				<div id="brexit">
+					<div class="profilepic"><img staticimage src="images/members/brexit.jpg"></div>
+				</div>
+				<div id="hax">
+					<div class="profilepic"><img staticimage src="images/members/HaxTheCharizard.png"></div>
+				</div>
+			</div>
+			<div class="teamdesc-container">
+				<h1>Meet The team</h1>
+				<div class="teamdesc">
+					<div id="zahf">
+						<h2>Zahf - The team leader</h2>
+						<p>Founder of Dragon-Force-Studio. He leads the development of the team, making sure the content made by the DragonForce is high quality.</p>
+					</div>
+					<div id="twiggy">
+						<h2>TWIGGY - The modeller</h2>
+						<p>
+							Modeller and animator of the team. Always wanted to tame and ride a dragon through the vast biomes. I'm still learning more and more , everytime I make a new model I learn something new to take my model to the next level.
+						</p>
+						<br>
+						<a href="https://m.youtube.com/channel/UCAvNrRs37Gt5b2biu1N7-oQ">YouTube channel</a>
+						<br>
+						<a href="https://twitter.com/TWIGGY_1006?s=09">Twitter</a>
+					</div>
+					<div id="foxfocus">
+						<h2>FoxFocus - Team Modeller</h2>
+						<p>A 14 year old modeler, She draws, do creative writing, yoga, and comic reading.</p>
+					</div>
+					<div id="demi">
+						<h2>Demi - Team Modeller</h2>
+						<p>A.k.a Demigod. An artist with many dreams.</p>
+					</div>
+					<div id="ripper">
+						<h2>Ripper - Team Modeller</h2>
+						<p>A 14 years old teenager who loves making models and texture. Good at textures and models i love drawing.</p>
+					</div>
+					<div id="hanprogramer">
+						<h2>Hanprogramer - Web Developer & Renderer</h2>
+						<p>A 17 y/o. Loves making games and designing apps. Also have some skills in web development and Blender rendering.</p>
+					</div>
+					<div id="justinMN">
+						<h2>JustinMN - Pixel Artist</h2>
+						<p>A 15 year-old guy who loves art of any sort.</p>
+					</div>
+					<div id="code_error">
+						<h2>Core_Error - Team Modeller</h2>
+						<p>A 15 year old who enjoys creating fantasy models and story writing. Xbox gamer tag "killen V".</p>
+					</div>
+					<div id="brexit">
+						<h2>Brexit_Box - Team Modeller</h2>
+						<p>A bossy teenager who makes models,works out,occasionally spars when they have the chance, and watches anime.</p>
+					</div>
+					<div id="hax">
+						<h2>HaxTheCharizard - Team Coder</h2>
+						<p>Minecraft Bedrock Edition modder, creator of the Tinker's Legacy mod.</p>
+					</div>
+				</div>
+				<div class="teamprogress"></div>
+			</div>
+			<script>
+				// Profile cycler
+				progress = 0;
+				profindex = 1;
+				profiles = ["zahf", "twiggy","foxfocus", "demi", "ripper","hanprogramer","justinMN","code_error","brexit","hax"];
+				profile = profiles[profindex];
+				root = document.documentElement;
+				setInterval(()=>{
+				progress += 1;
+				root.style.setProperty('--team-progress', String(progress) + "%");
+				if(progress > 100){
+				progress = 0;
+				profindex += 1;
+				profile = profiles[profindex % profiles.length];
+				refreshActiveProfile();
+				}
+				}, 60);
+				
+				function refreshActiveProfile(){
+				// Sets the current profile displayed
+				document.querySelectorAll(".teamskin > div").forEach((val) => {val.style.display = "none";val.classList.remove("animatedfadein");});
+				document.querySelector(".teamskin > #" + profile).style.display = "block";
+				document.querySelector(".teamskin > #" + profile).classList.add("animatedfadein");
+				
+				document.querySelectorAll(".teamdesc > div").forEach((val) => {val.style.height = "0";val.classList.remove("animatedfadein");});
+				document.querySelector(".teamdesc > #" + profile).style.height = "100%";
+				document.querySelector(".teamdesc > #" + profile).classList.add("animatedfadein");
+				}
+				refreshActiveProfile();
+			</script>
+		</div>
+		<div class="GENERATED"></div>
+		<div class="columncontainer">
+			<img src="posts/addons/expansive-fantasy/thumb.png">
+			<div class="content">
+				<h1>Expansive Fantasy</h1>
+				<p>
+					Want your own fire breathing dragon then this is the
+					addon for you soar through the air and go wherever
+					it will take you. Take on any enemy that comes your way.
+					Become one with your dragon and show everyone that the
+					bond you share with your dragon is unmatched .
+					Do you have what it takes to become a dragon master?
+				</p>
+				<a style="text-align: center" href="posts/addons/expansive-fantasy/post.html"><button>View Addon</button></a>
+			</div>
+		</div>
+		<div class="columncontainer">
+			<img src="posts/addons/ultimate-fantasy-skinpack/thumb.png">
+			<div class="content">
+				<h1>Ultimate Fantasy Skin Pack</h1>
+				<p>
+					Ultimate Fantasy brings five new awesome skins!
+					Become a mystic Blue Sorcerer.
+					Or show off your inner wickedness with the Dark Sorcerer.
+					From the divine Angle Girls enlightenment.
+					To Hell Boys fiery endure.
+					And Wind Girls otherworldly omen.
+					This skin pack adds five amazing skins.
+					Impress your friends with the new Ultimate Fantasy skin pack!
+				</p>
+				<a style="text-align: center" href="posts/addons/ultimate-fantasy-skinpack/post.html"><button>View addon</button></a>
+			</div>
+		</div>
+		<div class="columncontainer">
+			<img src="images/renders/social.png">
+			<div class="content" style="flex-grow: 1">
+				<h1 id="contact_us">Contact us</h1>
+				<a target="_blank" href="https://discord.gg/n2Bxdwk" style="text-align: center"><button class="discordbtn">Join Discord</button></a>
+				<a target="_blank" href="https://www.youtube.com/c/zahfgaming" style="text-align: center"><button>Youtube</button></a>
+				<a target="_blank" href="https://twitter.com/ck_zahf22?s=09" style="text-align: center"><button class="twitterbtn">Twitter</button></a>
+				<a target="_blank" href="https://facebook.com/zahfgaming" style="text-align: center"><button class="facebookbutton">Facebook</button></a>
+			</div>
+		</div>
+		<!-- <div class="maindivider" style="position: relative">
+			<div class="content">
+			<div class="GENERATED"></div>
+			</div>
+			</div> -->
+		<div class="footer">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-4">
+						<div class="footer-col">
+							<h4>Donate</h4>
+							<a class="nodecor" href="https://paypal.me/zahf22" target="_blank">
+							<img class="round-icon" src="images/icons/paypal-brands.svg">
+							</a>
+							<p>Support us by donating</p>
+						</div>
+					</div>
+					<!-- end of col -->
+					<div class="col-md-4">
+						<div class="footer-col middle">
+							<h4>Important Links</h4>
+							<ul class="list-unstyled li-space-lg">
+								<a class="nodecor" href="https://discord.gg/DjVgZC3" target="_blank">
+								<img class="round-icon" src="images/icons/discord-brands.svg">
+								</a>
+								<li class="media">
+									<div class="media-body">Our partner <a class="turquoise" href="https://discord.gg/DjVgZC3">TEAM ATLAS</a></div>
+								</li>
+								<li class="media">
+									<div class="media-body">Read our <a class="turquoise" href="https://dragon-force-studio.com/privacy.html">Privacy Policy</a></div>
+								</li>
+							</ul>
+						</div>
+					</div>
+					<!-- end of col -->
+					<div class="col-md-4">
+						<div class="footer-col last">
+							<h4>Social Media</h4>
+							<a class="nodecor" href="https://facebook.com/zahfgaming" target="_blank">
+							<img class="round-icon" src="images/icons/facebook-square-brands.svg">
+							</a>
+							<a class="nodecor" href="https://twitter.com/ck_zahf22?s=09" target="_blank">
+							<img class="round-icon" src="images/icons/twitter-square-brands.svg">
+							</a>
+							<a class="nodecor" href="https://www.youtube.com/c/zahfgaming" target="_blank">
+							<img class="round-icon" src="images/icons/youtube-brands.svg">
+							</a>
+							<a class="nodecor" href="https://discord.gg/n2Bxdwk" target="_blank">
+							<img class="round-icon" src="images/icons/discord-brands.svg">
+							</a>
+						</div>
+					</div>
+					<!-- end of col -->
+				</div>
+				<!-- end of row -->
+			</div>
+			<!-- end of container -->
+		</div>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/rellax/1.12.1/rellax.min.js"></script>
+		<script>
+			var rellax = new Rellax('.rellax');
+		</script>
+	</body>
 </html>
