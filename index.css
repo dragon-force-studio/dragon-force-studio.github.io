@@ -27,16 +27,16 @@ body {
 /* For Mobile */
 @media screen and (max-width: 720px) {
     .profilepic img{
-    min-width: 128px;
-    min-height: 128px;
-    max-width: 128px;
-    max-height: 128px;
-    object-fit: cover;
+        min-width:  50vw;
+        min-height: 50vw;
+        max-width:  50vw;
+        max-height: 50vw;
+        object-fit: cover;
 
-    margin: auto;
-    border-radius: 100%;
-    background-image: linear-gradient(to bottom right, black, black,rgb(49, 49, 49));
-}
+        margin: auto;
+        border-radius: 100%;
+        background-image: linear-gradient(to bottom right, black, black,rgb(49, 49, 49));
+    }
 	.navbar {
 		color: rgb(6, 106, 117);
 		/* text-transform: uppercase; */
@@ -85,6 +85,7 @@ body {
 	}
     .teamskin{
         max-width: 100%;
+        height: auto;
     }
     .teamdesc {
         width: 90%;
