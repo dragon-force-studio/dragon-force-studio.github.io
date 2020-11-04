@@ -57,15 +57,10 @@
                 }
                 // Auto hide the menubar on mobile
                 function onWindowResize() {
-                    if(window.screen.width < 720){
+                    if(window.innerWidth < 720){
                         try{
                             var self = document.getElementById("asldkfjhasdfoi");
-                            // self.style.display = "block";
-                            self.innerText = "...";
-                            // var elm = document.querySelectorAll(".subnavbar>a:not(.closebutton)");
-                            // for(var i in elm){
-                            //     elm[i].style.display = "none";
-                            // }
+                            collapsePanel(self);
                         }catch(e){}
                     }else{
                         try{

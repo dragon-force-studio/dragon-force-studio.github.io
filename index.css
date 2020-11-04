@@ -94,6 +94,15 @@ body {
     .teamdesc-container{
         height: 320px;
     }
+    .normalpost-columncontainer{
+        margin: 0;
+        padding: 32px;
+    }
+    .footer .container .row{
+        display: flex;
+        flex-direction: column;
+        flex-wrap: nowrap;
+    }
 }
 /* For PC */
 @media screen and (min-width: 720px) {
@@ -201,6 +210,15 @@ body {
 		transform: rotateX(90deg); /* Text bleed at 90º */
 		cursor: pointer;
 	}
+    .normalpost-columncontainer{
+        margin: 64px;
+        padding: 32px;
+    }
+    .footer .container .row{
+        display: flex;
+        flex-direction: row;
+        flex-wrap: nowrap;
+    }
 
 }
 
@@ -669,16 +687,11 @@ button:active{
     margin: 0;
     /* background-image: url("images/background4x.png"); */
 }
-.footer .container .row{
-    display: flex;
-    flex-direction: row;
-    flex-wrap: nowrap;
-}
 .footer .container .col-md-4{
     flex-grow:1;
     padding: 16px;
-    border-left: 1px solid rgb(39, 39, 39);
-    border-right: 1px solid rgb(39, 39, 39);
+    border: 1px solid rgb(39, 39, 39);
+    /* border-right: 1px solid rgb(39, 39, 39); */
 }
 
 
@@ -772,8 +785,8 @@ button:active{
     object-fit: scale-down;
     position: relative;
     z-index: 100;
-    margin: 64px;
-    padding: 32px;
+
+    word-wrap: break-word;
 }
 .normalpost-columncontainer img{
     max-width: 50%;

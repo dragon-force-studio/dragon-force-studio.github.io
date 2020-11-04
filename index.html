@@ -62,23 +62,19 @@
 			}
 			// Auto hide the menubar on mobile
 			function onWindowResize() {
-			if(window.screen.width < 720){
+			if(window.innerWidth < 720){
 			try{
-			var self = document.getElementById("asldkfjhasdfoi");
-			// self.style.display = "block";
-			self.innerText = "...";
-			// var elm = document.querySelectorAll(".subnavbar>a:not(.closebutton)");
-			// for(var i in elm){
-			// elm[i].style.display = "none";
-			// }
+				var self = document.getElementById("asldkfjhasdfoi");
+				collapsePanel(self);
 			}catch(e){}
 			}else{
 			try{
-			var self = document.getElementById("asldkfjhasdfoi");
-			// self.style.display = "none";
-			var elm = document.querySelectorAll(".subnavbar>a:not(.closebutton)");
-			for(var i in elm){
-			elm[i].style.display = "block";
+				console.log(window.width);
+				var self = document.getElementById("asldkfjhasdfoi");
+				// self.style.display = "none";
+				var elm = document.querySelectorAll(".subnavbar>a:not(.closebutton)");
+				for(var i in elm){
+				elm[i].style.display = "block";
 			}
 			}catch(e){}
 			}
@@ -87,7 +83,7 @@
 			window.onresize = onWindowResize;
 		</script>
 	</head>
-	<body onload="onWindowResize();">
+	<body onload="onWindowResize()">
 		<script>
 			CSS.paintWorklet.addModule('./bubblePaint.js')
 		</script>
@@ -130,19 +126,20 @@
 					As a team we aim to expand
 					the potential of Minecraft
 					to make it a more enjoyable experience.
+					<a href="/subpages/about.html"><button>About us</button></a>
 				</p>
 			</div>
 		</div>
-		<div class="columncontainer">
+		<!-- <div class="columncontainer">
 			<div class="teamskin">
 				<div id="zahf">
 					<div class="profilepic"><img staticimage src="images/members/zahf.png"></div>
 				</div>
 				<div id="twiggy">
-					<div class="profilepic"><img staticimage src="images/members/twiggy.png"></div>
+					<div class="profilepic"><img staticimage src="images/members/Twiggy.png"></div>
 				</div>
 				<div id="foxfocus">
-					<div class="profilepic"><img staticimage src="images/members/FoxFocus.png"></div>
+					<div class="profilepic"><img staticimage src="images/members/foxfocus.png"></div>
 				</div>
 				<div id="demi">
 					<div class="profilepic"><img staticimage src="images/members/demigods.png"></div>
@@ -248,7 +245,7 @@
 				}
 				refreshActiveProfile();
 			</script>
-		</div>
+		</div> -->
 <div class="post-wrapper"><h1>Addons</h1><div class="post-container">
                             <a class="post" href="posts/addons/among-us-map-builder/post.html">
                                 <img src="posts/addons/among-us-map-builder/thumb.png">

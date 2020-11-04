@@ -57,15 +57,10 @@
                 }
                 // Auto hide the menubar on mobile
                 function onWindowResize() {
-                    if(window.screen.width < 720){
+                    if(window.innerWidth < 720){
                         try{
                             var self = document.getElementById("asldkfjhasdfoi");
-                            // self.style.display = "block";
-                            self.innerText = "...";
-                            // var elm = document.querySelectorAll(".subnavbar>a:not(.closebutton)");
-                            // for(var i in elm){
-                            //     elm[i].style.display = "none";
-                            // }
+                            collapsePanel(self);
                         }catch(e){}
                     }else{
                         try{
@@ -117,6 +112,10 @@
 By <a href="https://mcpedl.com/user/zahf22" title="Posts by zahf22" rel="author">zahf22</a> <br>
 Published on October 22, 2019 <a href="#changelog">(Updated on July 24, 2020)</a></p> <h1 class="post-title">
 Expansive Fantasy (1.0.6) Compatibility Update </h1>
+
+
+
+md5-3a7eec5b6315bea5c853f538674aa925
 
 
 <p></p>
