@@ -1,5 +1,5 @@
 #orc_sword
-<a href="/wiki.html">Wiki</a> > <a href="/posts/wiki/weapons">weapons</a> > <a>orc_sword</a>
+<a href="/wiki.html">Wiki</a> > <a href="/posts/wiki/weapons/index.html">weapons</a> > <a>orc_sword</a>
 <div class="iteminfo">
 <h3>orc sword</h3>
 <img class="pixelimage" src="https://dragon-force-studio.com/images/EF_wiki/orc_sword.png">

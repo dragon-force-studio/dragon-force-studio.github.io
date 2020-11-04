@@ -1,5 +1,5 @@
 #griffin_special_food
-<a href="/wiki.html">Wiki</a> > <a href="/posts/wiki/items">items</a> > <a>griffin_special_food</a>
+<a href="/wiki.html">Wiki</a> > <a href="/posts/wiki/items/index.html">items</a> > <a>griffin_special_food</a>
 <div class="iteminfo">
 <h3>griffin special food</h3>
 <img class="pixelimage" src="https://dragon-force-studio.com/images/EF_wiki/griffin_special_food.png">

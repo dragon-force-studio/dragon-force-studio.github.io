@@ -1,5 +1,5 @@
 #raw_angler_fish
-<a href="/wiki.html">Wiki</a> > <a href="/posts/wiki/items">items</a> > <a>raw_angler_fish</a>
+<a href="/wiki.html">Wiki</a> > <a href="/posts/wiki/items/index.html">items</a> > <a>raw_angler_fish</a>
 <div class="iteminfo">
 <h3>raw angler fish</h3>
 <img class="pixelimage" src="https://dragon-force-studio.com/images/EF_wiki/raw_angler_fish.png">

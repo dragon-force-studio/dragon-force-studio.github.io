@@ -1,5 +1,5 @@
 #ripper_spear
-<a href="/wiki.html">Wiki</a> > <a href="/posts/wiki/weapons">weapons</a> > <a>ripper_spear</a>
+<a href="/wiki.html">Wiki</a> > <a href="/posts/wiki/weapons/index.html">weapons</a> > <a>ripper_spear</a>
 <div class="iteminfo">
 <h3>ripper spear</h3>
 <img class="pixelimage" src="https://dragon-force-studio.com/images/EF_wiki/ripper_spear.png">

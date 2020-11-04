@@ -1,5 +1,5 @@
 #cyrilite
-<a href="/wiki.html">Wiki</a> > <a href="/posts/wiki/items">items</a> > <a>cyrilite</a>
+<a href="/wiki.html">Wiki</a> > <a href="/posts/wiki/items/index.html">items</a> > <a>cyrilite</a>
 <div class="iteminfo">
 <h3>cyrilite</h3>
 <img class="pixelimage" src="https://dragon-force-studio.com/images/EF_wiki/cyrilite.png">

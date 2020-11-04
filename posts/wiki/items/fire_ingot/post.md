@@ -1,5 +1,5 @@
 #fire_ingot
-<a href="/wiki.html">Wiki</a> > <a href="/posts/wiki/items">items</a> > <a>fire_ingot</a>
+<a href="/wiki.html">Wiki</a> > <a href="/posts/wiki/items/index.html">items</a> > <a>fire_ingot</a>
 <div class="iteminfo">
 <h3>fire ingot</h3>
 <img class="pixelimage" src="https://dragon-force-studio.com/images/EF_wiki/fire_ingot.png">

@@ -1,5 +1,5 @@
 #poison_ingot
-<a href="/wiki.html">Wiki</a> > <a href="/posts/wiki/items">items</a> > <a>poison_ingot</a>
+<a href="/wiki.html">Wiki</a> > <a href="/posts/wiki/items/index.html">items</a> > <a>poison_ingot</a>
 <div class="iteminfo">
 <h3>poison ingot</h3>
 <img class="pixelimage" src="https://dragon-force-studio.com/images/EF_wiki/poison_ingot.png">

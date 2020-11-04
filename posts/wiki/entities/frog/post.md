@@ -1,5 +1,5 @@
 #frog
-<a href="/wiki.html">Wiki</a> > <a href="/posts/wiki/entities">entities</a> > <a>frog</a>
+<a href="/wiki.html">Wiki</a> > <a href="/posts/wiki/entities/index.html">entities</a> > <a>frog</a>
 <div class="iteminfo">
 <h3>frog</h3>
 <img class="pixelimage" src="https://dragon-force-studio.com/images/EF_wiki/frog.png">

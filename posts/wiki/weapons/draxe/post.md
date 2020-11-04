@@ -1,5 +1,5 @@
 #draxe
-<a href="/wiki.html">Wiki</a> > <a href="/posts/wiki/weapons">weapons</a> > <a>draxe</a>
+<a href="/wiki.html">Wiki</a> > <a href="/posts/wiki/weapons/index.html">weapons</a> > <a>draxe</a>
 <div class="iteminfo">
 <h3>draxe</h3>
 <img class="pixelimage" src="https://dragon-force-studio.com/images/EF_wiki/draxe.png">

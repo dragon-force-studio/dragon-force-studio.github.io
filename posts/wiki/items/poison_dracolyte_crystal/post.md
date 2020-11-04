@@ -1,5 +1,5 @@
 #poison_dracolyte_crystal
-<a href="/wiki.html">Wiki</a> > <a href="/posts/wiki/items">items</a> > <a>poison_dracolyte_crystal</a>
+<a href="/wiki.html">Wiki</a> > <a href="/posts/wiki/items/index.html">items</a> > <a>poison_dracolyte_crystal</a>
 <div class="iteminfo">
 <h3>poison dracolyte crystal</h3>
 <img class="pixelimage" src="https://dragon-force-studio.com/images/EF_wiki/poison_dracolyte_crystal.png">

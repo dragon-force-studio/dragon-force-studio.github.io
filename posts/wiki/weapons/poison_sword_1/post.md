@@ -1,5 +1,5 @@
 #poison_sword_1
-<a href="/wiki.html">Wiki</a> > <a href="/posts/wiki/weapons">weapons</a> > <a>poison_sword_1</a>
+<a href="/wiki.html">Wiki</a> > <a href="/posts/wiki/weapons/index.html">weapons</a> > <a>poison_sword_1</a>
 <div class="iteminfo">
 <h3>poison sword 1</h3>
 <img class="pixelimage" src="https://dragon-force-studio.com/images/EF_wiki/poison_sword_1.png">

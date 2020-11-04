@@ -148,7 +148,7 @@ for category in wiki.keys():
 
         item_file = open("posts/wiki/" + category + "/" + item + "/post.md", "w")
         item_file.write("#" + item + "\n")
-        item_file.write('<a href="/wiki.html">Wiki</a> > <a href="/posts/wiki/%s">%s</a> > <a>%s</a>' % (category,category,item) + "\n")
+        item_file.write('<a href="/wiki.html">Wiki</a> > <a href="/posts/wiki/%s/index.html">%s</a> > <a>%s</a>' % (category,category,item) + "\n")
 
         item_file.write('<div class="iteminfo">\n')
         item_file.write('<h3>%s</h3>' % item.replace("_", " ") + "\n")

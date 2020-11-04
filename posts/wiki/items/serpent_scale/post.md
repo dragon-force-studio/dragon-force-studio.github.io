@@ -1,5 +1,5 @@
 #serpent_scale
-<a href="/wiki.html">Wiki</a> > <a href="/posts/wiki/items">items</a> > <a>serpent_scale</a>
+<a href="/wiki.html">Wiki</a> > <a href="/posts/wiki/items/index.html">items</a> > <a>serpent_scale</a>
 <div class="iteminfo">
 <h3>serpent scale</h3>
 <img class="pixelimage" src="https://dragon-force-studio.com/images/EF_wiki/serpent_scale.png">

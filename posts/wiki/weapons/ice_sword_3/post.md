@@ -1,5 +1,5 @@
 #ice_sword_3
-<a href="/wiki.html">Wiki</a> > <a href="/posts/wiki/weapons">weapons</a> > <a>ice_sword_3</a>
+<a href="/wiki.html">Wiki</a> > <a href="/posts/wiki/weapons/index.html">weapons</a> > <a>ice_sword_3</a>
 <div class="iteminfo">
 <h3>ice sword 3</h3>
 <img class="pixelimage" src="https://dragon-force-studio.com/images/EF_wiki/ice_sword_3.png">

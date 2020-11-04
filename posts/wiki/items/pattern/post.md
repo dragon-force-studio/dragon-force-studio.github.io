@@ -1,5 +1,5 @@
 #pattern
-<a href="/wiki.html">Wiki</a> > <a href="/posts/wiki/items">items</a> > <a>pattern</a>
+<a href="/wiki.html">Wiki</a> > <a href="/posts/wiki/items/index.html">items</a> > <a>pattern</a>
 <div class="iteminfo">
 <h3>pattern</h3>
 <img class="pixelimage" src="https://dragon-force-studio.com/images/EF_wiki/pattern.png">

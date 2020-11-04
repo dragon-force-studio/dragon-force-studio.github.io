@@ -1,5 +1,5 @@
 #poison_dracolyte
-<a href="/wiki.html">Wiki</a> > <a href="/posts/wiki/items">items</a> > <a>poison_dracolyte</a>
+<a href="/wiki.html">Wiki</a> > <a href="/posts/wiki/items/index.html">items</a> > <a>poison_dracolyte</a>
 <div class="iteminfo">
 <h3>poison dracolyte</h3>
 <img class="pixelimage" src="https://dragon-force-studio.com/images/EF_wiki/poison_dracolyte.png">

@@ -1,5 +1,5 @@
 #fire_dracolyte_crystal
-<a href="/wiki.html">Wiki</a> > <a href="/posts/wiki/items">items</a> > <a>fire_dracolyte_crystal</a>
+<a href="/wiki.html">Wiki</a> > <a href="/posts/wiki/items/index.html">items</a> > <a>fire_dracolyte_crystal</a>
 <div class="iteminfo">
 <h3>fire dracolyte crystal</h3>
 <img class="pixelimage" src="https://dragon-force-studio.com/images/EF_wiki/fire_dracolyte_crystal.png">

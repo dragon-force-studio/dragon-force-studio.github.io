@@ -1,5 +1,5 @@
 #print_catridge
-<a href="/wiki.html">Wiki</a> > <a href="/posts/wiki/items">items</a> > <a>print_catridge</a>
+<a href="/wiki.html">Wiki</a> > <a href="/posts/wiki/items/index.html">items</a> > <a>print_catridge</a>
 <div class="iteminfo">
 <h3>print catridge</h3>
 <img class="pixelimage" src="https://dragon-force-studio.com/images/EF_wiki/print_catridge.png">

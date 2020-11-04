@@ -241,10 +241,11 @@ body {
 
 .logo {
     padding-top: 256px;
-    height: 256px;
+    height: 50vh;
     width: 100%;
     background-image: url("./images/download-withgradient.png");
     background-repeat: no-repeat;
+    background-size: cover;
     z-index : -1;
     position: fixed;
 }

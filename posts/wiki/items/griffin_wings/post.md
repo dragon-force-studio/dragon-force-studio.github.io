@@ -1,5 +1,5 @@
 #griffin_wings
-<a href="/wiki.html">Wiki</a> > <a href="/posts/wiki/items">items</a> > <a>griffin_wings</a>
+<a href="/wiki.html">Wiki</a> > <a href="/posts/wiki/items/index.html">items</a> > <a>griffin_wings</a>
 <div class="iteminfo">
 <h3>griffin wings</h3>
 <img class="pixelimage" src="https://dragon-force-studio.com/images/EF_wiki/griffin_wings.png">

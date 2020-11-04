@@ -1,5 +1,5 @@
 #igniside
-<a href="/wiki.html">Wiki</a> > <a href="/posts/wiki/items">items</a> > <a>igniside</a>
+<a href="/wiki.html">Wiki</a> > <a href="/posts/wiki/items/index.html">items</a> > <a>igniside</a>
 <div class="iteminfo">
 <h3>igniside</h3>
 <img class="pixelimage" src="https://dragon-force-studio.com/images/EF_wiki/igniside.png">

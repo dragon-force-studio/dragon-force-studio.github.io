@@ -1,5 +1,5 @@
 #fire_sword_2
-<a href="/wiki.html">Wiki</a> > <a href="/posts/wiki/weapons">weapons</a> > <a>fire_sword_2</a>
+<a href="/wiki.html">Wiki</a> > <a href="/posts/wiki/weapons/index.html">weapons</a> > <a>fire_sword_2</a>
 <div class="iteminfo">
 <h3>fire sword 2</h3>
 <img class="pixelimage" src="https://dragon-force-studio.com/images/EF_wiki/fire_sword_2.png">

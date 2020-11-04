@@ -1,5 +1,5 @@
 #paper_plaque
-<a href="/wiki.html">Wiki</a> > <a href="/posts/wiki/items">items</a> > <a>paper_plaque</a>
+<a href="/wiki.html">Wiki</a> > <a href="/posts/wiki/items/index.html">items</a> > <a>paper_plaque</a>
 <div class="iteminfo">
 <h3>paper plaque</h3>
 <img class="pixelimage" src="https://dragon-force-studio.com/images/EF_wiki/paper_plaque.png">

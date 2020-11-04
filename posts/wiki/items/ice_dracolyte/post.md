@@ -1,5 +1,5 @@
 #ice_dracolyte
-<a href="/wiki.html">Wiki</a> > <a href="/posts/wiki/items">items</a> > <a>ice_dracolyte</a>
+<a href="/wiki.html">Wiki</a> > <a href="/posts/wiki/items/index.html">items</a> > <a>ice_dracolyte</a>
 <div class="iteminfo">
 <h3>ice dracolyte</h3>
 <img class="pixelimage" src="https://dragon-force-studio.com/images/EF_wiki/ice_dracolyte.png">

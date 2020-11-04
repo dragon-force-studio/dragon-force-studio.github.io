@@ -1,5 +1,5 @@
 #cooked_angler_fish
-<a href="/wiki.html">Wiki</a> > <a href="/posts/wiki/items">items</a> > <a>cooked_angler_fish</a>
+<a href="/wiki.html">Wiki</a> > <a href="/posts/wiki/items/index.html">items</a> > <a>cooked_angler_fish</a>
 <div class="iteminfo">
 <h3>cooked angler fish</h3>
 <img class="pixelimage" src="https://dragon-force-studio.com/images/EF_wiki/cooked_angler_fish.png">

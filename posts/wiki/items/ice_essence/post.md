@@ -1,5 +1,5 @@
 #ice_essence
-<a href="/wiki.html">Wiki</a> > <a href="/posts/wiki/items">items</a> > <a>ice_essence</a>
+<a href="/wiki.html">Wiki</a> > <a href="/posts/wiki/items/index.html">items</a> > <a>ice_essence</a>
 <div class="iteminfo">
 <h3>ice essence</h3>
 <img class="pixelimage" src="https://dragon-force-studio.com/images/EF_wiki/ice_essence.png">
