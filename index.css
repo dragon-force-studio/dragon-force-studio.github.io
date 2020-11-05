@@ -611,7 +611,7 @@ button {
     background-color: rgb(204, 20, 20);
     display: block;
     text-decoration: none;
-    height: 48px;
+    height: fit-content;
     line-height: 44px;
     padding: 2px;
     text-align: center;
@@ -681,7 +681,19 @@ button:active{
     border-top: 4px solid rgb(10, 61, 102);
     border-bottom: 0px solid rgb(10, 61, 102);
 }
-
+.playstorebutton{
+    background-color: rgb(43, 240, 36);
+    border-top: 0 solid rgb(36, 102, 10);
+    border-bottom: 4px solid rgb(36, 102, 10);
+}
+.playstorebutton:hover{
+    background-color: rgb(117, 250, 77);
+}
+.playstorebutton:active{
+    background-color: rgb(37, 131, 18);
+    border-top: 4px solid rgb(36, 102, 10);
+    border-bottom: 0px solid rgb(36, 102, 10);
+}
 .footer{
     border: 2px solid rgb(39, 39, 39);
     background-color: rgb(15, 15, 15);
