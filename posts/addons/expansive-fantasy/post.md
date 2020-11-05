@@ -423,7 +423,7 @@ Changelog
 
 <ul id="download-list">
 <a href="https://direct-link.net/148461/ExpansiveFantasy" target="_blank"><button>Download via Linkvertise</button></a>
-<a target="_blank" href="https://play.google.com/store/apps/details?id=com.expansive.fantasy.addon" style="text-align: center"><button class="playstorebutton">Download Via Playstore</button></a>
+<a target="_blank" href="https://play.google.com/store/apps/details?id=com.dragon.force.studio.ExpansiveFantasy" style="text-align: center"><button class="playstorebutton">Download Via Playstore</button></a>
 </ul>
 
 <h3>Supported Minecraft versions</h3>
