@@ -100,6 +100,7 @@
 				</div>
 			</div>
 		</div>
+		<div id="root"></div>
 		<div class="subnavbar">
 			<div class="subnavitems">
 				<a href="/index.html">Home</a>
@@ -431,5 +432,35 @@
 		<script>
 			var rellax = new Rellax('.rellax');
 		</script>
+	<!-- The core Firebase JS SDK is always required and must be listed first -->
+	<script src="https://www.gstatic.com/firebasejs/8.6.2/firebase-app.js"></script>
+	<script src="https://www.gstatic.com/firebasejs/8.6.2/firebase-database.js"></script>
+
+	<!-- TODO: Add SDKs for Firebase products that you want to use
+		 https://firebase.google.com/docs/web/setup#available-libraries -->
+
+	<script>
+	  // Your web app's Firebase configuration
+	  var firebaseConfig = {
+		apiKey: "AIzaSyDFIbPGAbjCPbi8ZmRGR2XZkZOkzJLQqZk",
+		authDomain: "expansive-fantasy-d3c7f.firebaseapp.com",
+		databaseURL: "https://expansive-fantasy-d3c7f.firebaseio.com",
+		projectId: "expansive-fantasy-d3c7f",
+		storageBucket: "expansive-fantasy-d3c7f.appspot.com",
+		messagingSenderId: "1089418085883",
+		appId: "1:1089418085883:web:0dd0311104e90ffa32f75e"
+	  };
+	  // Initialize Firebase
+	  firebase.initializeApp(firebaseConfig);
+	  var firebaseRef =firebase.database().ref("entities");
+	  firebaseRef.once("value", function(snapshot) {
+		var data = snapshot.val();
+		for(let i in data) {
+			document.querySelector('#root').innerHTML += `
+				<div>${data[i].name}</div>
+			`
+		}
+	  })
+	</script>
 	</body>
 </html>
