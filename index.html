@@ -344,14 +344,6 @@
 							<a class="nodecor" href="https://paypal.me/zahf22" target="_blank">
 							<img class="round-icon" src="images/icons/paypal-brands.svg">
 							</a>
-							<p>Support us by donating</p>
-                                                       <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-<input type="hidden" name="cmd" value="_s-xclick">
-<input type="hidden" name="hosted_button_id" value="36WZLN6GTS3XG">
-<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-</form>
-
 						</div>
 					</div>
 					<!-- end of col -->
@@ -399,35 +391,5 @@
 		<script>
 			var rellax = new Rellax('.rellax');
 		</script>
-	<!-- The core Firebase JS SDK is always required and must be listed first -->
-	<script src="https://www.gstatic.com/firebasejs/8.6.2/firebase-app.js"></script>
-	<script src="https://www.gstatic.com/firebasejs/8.6.2/firebase-database.js"></script>
-
-	<!-- TODO: Add SDKs for Firebase products that you want to use
-		 https://firebase.google.com/docs/web/setup#available-libraries -->
-
-	<script>
-	  // Your web app's Firebase configuration
-	  var firebaseConfig = {
-		apiKey: "AIzaSyDFIbPGAbjCPbi8ZmRGR2XZkZOkzJLQqZk",
-		authDomain: "expansive-fantasy-d3c7f.firebaseapp.com",
-		databaseURL: "https://expansive-fantasy-d3c7f.firebaseio.com",
-		projectId: "expansive-fantasy-d3c7f",
-		storageBucket: "expansive-fantasy-d3c7f.appspot.com",
-		messagingSenderId: "1089418085883",
-		appId: "1:1089418085883:web:0dd0311104e90ffa32f75e"
-	  };
-	  // Initialize Firebase
-	  firebase.initializeApp(firebaseConfig);
-	  var firebaseRef =firebase.database().ref("entities");
-	  firebaseRef.once("value", function(snapshot) {
-		var data = snapshot.val();
-		for(let i in data) {
-			document.querySelector('#root').innerHTML += `
-				<div>${data[i].name}</div>
-			`
-		}
-	  })
-	</script>
 	</body>
 </html>
